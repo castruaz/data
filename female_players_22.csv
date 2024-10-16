@@ -1,392 +1,392 @@
-sofifa_id,player_url,short_name,long_name,player_positions,overall,potential,age,dob,height_cm,weight_kg,nationality_id,nationality_name,nation_team_id,nation_position,nation_jersey_number,preferred_foot,weak_foot,skill_moves,international_reputation,work_rate,pace,shooting,passing,dribbling,defending,physic,movement_acceleration
-227246,https://sofifa.com/player/227246/lucy-bronze/220002,L. Bronze,Lucia Roberta Tough Bronze,"RB, CM",92,92,29,28/10/91,171,67,14,England,113002,RB,2,Right,3,3,5,High/High,86,61,70,81,89,84,87
-227316,https://sofifa.com/player/227316/wendie-renard/220002,W. Renard,Wéndèleine Thérèse Renard,CB,92,92,30,20/07/90,187,70,18,France,113003,LCB,3,Right,2,2,5,High/Medium,68,70,62,73,91,88,69
-233746,https://sofifa.com/player/233746/vivianne-miedema/220002,V. Miedema,Vivianne Miedema,ST,92,93,24,15/07/96,178,65,34,Netherlands,113011,ST,9,Right,4,4,5,High/Low,81,93,75,88,32,79,80
-227125,https://sofifa.com/player/227125/samantha-kerr/220002,S. Kerr,Samantha May Kerr,"ST, LW",91,91,27,10/09/93,167,55,195,Australia,112998,ST,20,Right,4,4,5,High/Medium,87,90,72,91,39,80,89
-226301,https://sofifa.com/player/226301/alex-morgan/220002,A. Morgan,Alexandra Morgan Carrasco,ST,90,90,31,02/07/89,170,62,95,United States,113009,ST,13,Left,4,4,5,High/Low,86,88,74,86,43,71,85
-226308,https://sofifa.com/player/226308/dzsenifer-marozsan/220002,D. Marozsán,Dzsenifer Marozsán,"CAM, LM, CM",90,90,29,18/04/92,171,67,21,Germany,113004,LDM,10,Right,4,5,5,High/Medium,82,86,90,89,55,76,84
-226328,https://sofifa.com/player/226328/megan-rapinoe/220002,M. Rapinoe,Megan Anna Rapinoe,"LW, LM",90,90,35,05/07/85,170,60,95,United States,113009,LW,15,Right,4,4,5,High/Low,71,87,90,89,49,66,72
-226330,https://sofifa.com/player/226330/tobin-heath/220002,T. Heath,Tobin Powell Heath,"RW, CAM, LW",90,90,33,29/05/88,168,59,95,United States,113009,RW,17,Right,5,5,4,Medium/High,77,79,89,93,36,64,78
-227102,https://sofifa.com/player/227102/caroline-graham-hansen/220002,C. Hansen,Caroline Graham Hansen,"RM, CAM, ST",90,91,26,18/02/95,178,66,36,Norway,113007,CAM,10,Right,4,4,4,High/Medium,87,83,86,89,45,75,86
-227318,https://sofifa.com/player/227318/amandine-henry/220002,A. Henry,Amandine Chantal Henry,"CDM, CM",90,90,31,28/09/89,171,64,18,France,113003,RDM,6,Right,3,4,5,High/High,74,78,79,80,88,88,75
-226333,https://sofifa.com/player/226333/julie-ertz/220002,J. Ertz,Julie Beth Ertz,"CDM, CB",89,89,29,06/04/92,170,59,95,United States,113009,CDM,8,Right,3,3,4,Medium/High,77,66,80,75,87,85,76
-226359,https://sofifa.com/player/226359/christine-sinclair/220002,C. Sinclair,Christine Margaret Sinclair,"ST, CAM",89,89,38,12/06/83,175,67,70,Canada,113000,ST,12,Right,4,4,4,High/Medium,72,89,85,85,37,80,71
-227331,https://sofifa.com/player/227331/eugenie-le-sommer/220002,E. Le Sommer,Eugénie Anne Claudine Le Sommer,"ST, LW, CAM",89,89,32,18/05/89,161,58,18,France,113003,ST,9,Right,5,4,5,Medium/High,81,91,74,84,41,70,78
-233748,https://sofifa.com/player/233748/lieke-martens/220002,L. Martens,Lieke Martens,"LW, CAM",89,89,28,16/12/92,170,66,34,Netherlands,113011,LW,11,Right,4,5,5,Medium/Low,81,87,86,89,41,72,80
-226177,https://sofifa.com/player/226177/becky-sauerbrunn/220002,B. Sauerbrunn,Rebecca Elizabeth Sauerbrunn,"CB, RB",88,88,36,06/06/85,170,64,95,United States,113009,LCB,4,Right,2,2,4,Low/High,73,37,62,63,88,85,73
-226302,https://sofifa.com/player/226302/alexandra-popp/220002,A. Popp,Alexandra Popp,"ST, LM",88,88,30,06/04/91,174,65,21,Germany,113004,SUB,11,Right,5,4,4,Medium/Medium,82,87,77,81,48,85,83
-227255,https://sofifa.com/player/227255/fran-kirby/220002,F. Kirby,Francesca Kirby,"CAM, ST, CM",88,88,28,29/06/93,157,53,14,England,113002,CAM,10,Right,3,4,4,High/Medium,87,88,76,88,50,62,90
-227192,https://sofifa.com/player/227192/jennifer-hermoso-fuentes/220002,Jenni Hermoso,Jennifer Hermoso Fuentes,"ST, CAM, CF",87,87,31,09/05/90,174,59,45,Spain,113012,ST,10,Left,4,4,4,Medium/Medium,78,90,80,85,47,71,77
-227327,https://sofifa.com/player/227327/sara-dabritz/220002,S. Däbritz,Sara Ilonka Däbritz,"CM, LM, CAM",87,89,26,15/02/95,171,59,21,Germany,113004,LM,23,Left,5,4,3,Medium/Medium,82,79,83,87,69,72,86
-227350,https://sofifa.com/player/227350/amel-majri/220002,A. Majri,Amel Majri,"LM, LB",87,87,28,25/01/93,164,54,18,France,113003,LAM,10,Left,3,4,3,High/High,83,69,85,87,85,80,86
-231432,https://sofifa.com/player/231432/lindsey-horan/220002,L. Horan,Lindsey Michelle Horan,"CAM, CM",87,88,27,26/05/94,175,67,95,United States,113009,LCM,9,Right,3,4,3,High/Medium,79,86,85,83,59,76,80
-245872,https://sofifa.com/player/245872/kim-little/220002,K. Little,Kim Alison Little,"CAM, CM",87,87,31,29/06/90,162,58,42,Scotland,113984,CAM,8,Right,4,4,3,Medium/Medium,77,84,86,86,43,69,80
-226327,https://sofifa.com/player/226327/christen-press/220002,C. Press,Christen Annemarie Press,"ST, LW, RW",86,86,32,29/12/88,170,59,95,United States,113009,SUB,23,Right,3,4,4,High/Low,85,86,76,83,45,73,86
-226335,https://sofifa.com/player/226335/alyssa-naeher/220002,A. Naeher,Alyssa Michele Naeher,GK,86,86,33,20/04/88,175,60,95,United States,113009,GK,1,Right,2,1,3,Medium/Medium,,,,,,,43
-226336,https://sofifa.com/player/226336/crystal-dunn/220002,C. Dunn,Crystal Alyssia Dunn Soubrier,"LB, RB, LM",86,86,28,03/07/92,157,55,95,United States,113009,LB,19,Right,5,4,3,High/High,83,76,80,81,83,63,85
-226338,https://sofifa.com/player/226338/samantha-mewis/220002,S. Mewis,Samantha June Mewis,"CM, CDM",86,86,28,09/10/92,180,63,95,United States,113009,RCM,3,Right,4,4,3,High/Medium,68,76,82,80,77,84,66
-226968,https://sofifa.com/player/226968/nilla-fischer/220002,N. Fischer,Åsa Nilla Maria Fischer,CB,86,86,36,02/08/84,176,68,46,Sweden,113008,SUB,5,Right,2,2,4,Medium/Medium,48,44,66,58,86,82,46
-226975,https://sofifa.com/player/226975/caroline-seger/220002,C. Seger,Sara Caroline Seger,"CM, CDM",86,86,36,19/03/85,176,62,46,Sweden,113008,LCM,17,Right,3,4,4,Medium/Medium,49,80,82,79,80,77,47
-227313,https://sofifa.com/player/227313/sarah-bouhaddi/220002,S. Bouhaddi,Sarah Bouhaddi,GK,86,86,34,17/10/86,175,69,18,France,113003,SUB,16,Right,1,1,3,Medium/Medium,,,,,,,54
-226318,https://sofifa.com/player/226318/kelley-ohara/220002,K. O'Hara,Kelley Maureen O'Hara,"RB, LB",85,85,32,04/08/88,165,58,95,United States,113009,RB,5,Right,2,3,4,Medium/High,81,65,69,79,83,71,80
-226358,https://sofifa.com/player/226358/steph-houghton/220002,S. Houghton,Stephanie Jayne Houghton Darby,CB,85,85,33,23/04/88,174,71,14,England,113002,RCB,5,Right,3,2,4,Medium/Medium,58,63,63,66,85,83,57
-226998,https://sofifa.com/player/226998/magdalena-eriksson/220002,M. Eriksson,Magdalena Lilly Eriksson,"LB, CB",85,85,27,08/09/93,172,66,46,Sweden,113008,LB,6,Left,3,2,4,Medium/Medium,76,33,76,71,84,83,76
-227203,https://sofifa.com/player/227203/alexia-putellas-segura/220002,Alexia Putellas,Alexia Putellas Segura,"LM, RM, CM",85,85,27,04/02/94,175,66,45,Spain,113012,LCM,11,Left,4,3,4,High/Medium,77,83,82,84,69,70,78
-232075,https://sofifa.com/player/232075/rose-lavelle/220002,R. Lavelle,Rosemary Kathleen Lavelle,"CAM, CM, LB",85,88,26,14/05/95,163,52,95,United States,113009,SUB,16,Left,3,4,3,Medium/Medium,80,78,80,85,46,60,81
-233852,https://sofifa.com/player/233852/jackie-groenen/220002,J. Groenen,Jackie Noëlle Groenen,"CM, CAM",85,86,26,17/12/94,164,60,34,Netherlands,113011,RCM,14,Right,4,4,3,Medium/Medium,82,68,85,87,68,76,85
-242896,https://sofifa.com/player/242896/ingrid-syrstad-engen/220002,I. Engen,Ingrid Syrstad Engen,"CM, CDM",85,90,23,29/04/98,177,65,36,Norway,113007,LCM,14,Right,3,3,3,Medium/High,76,73,82,83,82,83,78
-226331,https://sofifa.com/player/226331/ashlyn-harris/220002,A. Harris,Ashlyn Michelle Harris,GK,84,84,35,19/10/85,175,60,95,United States,113009,SUB,18,Right,2,1,3,Medium/Medium,,,,,,,44
-226987,https://sofifa.com/player/226987/kosovare-asllani/220002,K. Asllani,Kosovare Asllani,"CAM, CM, ST",84,84,31,29/07/89,166,57,46,Sweden,113008,CAM,9,Right,4,4,4,Medium/Medium,77,79,79,87,46,55,80
-227330,https://sofifa.com/player/227330/laura-benkarth/220002,L. Benkarth,Laura Anna Benkarth,GK,84,84,28,14/10/92,173,68,21,Germany,113004,GK,12,Right,3,1,2,Medium/Medium,,,,,,,39
-227337,https://sofifa.com/player/227337/svenja-huth/220002,S. Huth,Svenja Anette Huth,"RM, ST, LM",84,84,30,25/01/91,163,54,21,Germany,113004,RM,9,Right,5,4,3,High/Medium,86,73,81,86,57,58,88
-227383,https://sofifa.com/player/227383/kadeisha-buchanan/220002,K. Buchanan,Kadeisha Buchanan,CB,84,87,25,05/11/95,170,65,70,Canada,113000,RCB,3,Right,3,2,3,Medium/High,80,37,51,69,84,86,79
-232202,https://sofifa.com/player/232202/delphine-cascarino/220002,D. Cascarino,Delphine Cascarino,"RM, RW",84,89,24,05/02/97,165,57,18,France,113003,RAM,20,Right,2,4,2,High/Medium,94,72,76,86,27,56,95
-233341,https://sofifa.com/player/233341/abby-erceg/220002,A. Erceg,Abby May Erceg,CB,84,84,31,20/11/89,177,68,198,New Zealand,113258,LCB,8,Right,3,2,3,Medium/Medium,61,51,62,67,86,81,58
-233364,https://sofifa.com/player/233364/stina-blackstenius/220002,S. Blackstenius,Emma Stina Blackstenius,ST,84,89,25,05/02/96,174,72,46,Sweden,113008,ST,11,Right,4,4,3,High/Medium,88,84,65,83,32,72,86
-233751,https://sofifa.com/player/233751/danielle-van-de-donk/220002,D. van de Donk,Daniëlle van de Donk,"CAM, CM",84,84,29,05/08/91,160,54,34,Netherlands,113011,LCM,10,Right,3,4,3,High/High,84,76,79,85,56,73,85
-233837,https://sofifa.com/player/233837/lina-magull/220002,L. Magull,Lina Maria Magull,"CM, CAM",84,85,26,15/08/94,166,54,21,Germany,113004,CAM,28,Right,3,4,3,High/Medium,85,78,84,86,57,68,87
-247788,https://sofifa.com/player/247788/giulia-gwinn/220002,G. Gwinn,Giulia Ronja Gwinn,"RM, CAM, RB",84,90,21,02/07/99,170,56,21,Germany,113004,SUB,51,Right,3,4,2,Medium/High,86,71,80,84,64,65,87
-248717,https://sofifa.com/player/248717/lena-oberdorf/220002,L. Oberdorf,Lena Sophie Oberdorf,"CB, CDM",84,92,19,19/12/01,174,55,21,Germany,113004,LCB,6,Right,3,3,1,Medium/Medium,70,70,75,77,84,82,72
-226973,https://sofifa.com/player/226973/sofia-jakobsson/220002,S. Jakobsson,Eva Sofia Jakobsson,"RW, ST, LW",83,83,31,23/04/90,174,62,46,Sweden,113008,RW,10,Right,3,3,3,High/High,88,80,75,80,35,69,85
-226978,https://sofifa.com/player/226978/hedvig-lindahl/220002,H. Lindahl,Rut Hedvig Lindahl,GK,83,83,38,29/04/83,179,74,46,Sweden,113008,GK,1,Right,3,1,3,Medium/Medium,,,,,,,47
-227013,https://sofifa.com/player/227013/fridolina-rolfo/220002,F. Rolfö,Fridolina Rolfö,"LW, RW",83,83,27,24/11/93,178,65,46,Sweden,113008,LW,18,Left,3,4,3,Low/Medium,80,83,78,84,44,77,80
-227190,https://sofifa.com/player/227190/irene-paredes-hernandez/220002,Irene Paredes,Irene Paredes Hernández,CB,83,83,29,04/07/91,177,62,45,Spain,113012,RCB,4,Right,3,2,4,Medium/High,70,52,62,65,86,76,68
-227257,https://sofifa.com/player/227257/jordan-nobbs/220002,J. Nobbs,Jordan Nobbs,"CM, RM",83,83,28,08/12/92,160,54,14,England,113002,RDM,8,Right,3,4,3,High/High,77,77,81,81,69,69,80
-227282,https://sofifa.com/player/227282/maren-mjelde/220002,M. Mjelde,Maren Nævdal Mjelde,"CB, RB",83,83,31,06/11/89,166,63,36,Norway,113007,RCB,6,Right,3,3,3,Medium/High,77,76,82,79,85,72,76
-227346,https://sofifa.com/player/227346/griedge-mbock/220002,G. Mbock,Griedge Yinda Colette Mbock Bathy Nka,CB,83,86,26,26/02/95,172,64,18,France,113003,RCB,19,Right,3,2,3,Medium/High,76,45,65,68,83,83,76
-227361,https://sofifa.com/player/227361/kadidiatou-diani/220002,K. Diani,Kadidiatou Diani,"RM, RW, ST",83,84,26,01/04/95,168,64,18,France,113003,SUB,11,Right,3,4,3,Medium/Medium,85,78,78,83,50,58,84
-227405,https://sofifa.com/player/227405/sophie-schmidt/220002,S. Schmidt,Sophie Diana Schmidt,"CM, CDM, CB",83,83,33,28/06/88,172,71,70,Canada,113000,SUB,13,Right,5,4,3,High/Medium,70,77,81,81,73,70,71
-227466,https://sofifa.com/player/227466/kenti-robles/220002,K. Robles,Vaitiare Kenti Robles Salas,RB,83,83,30,15/02/91,161,59,83,Mexico,113010,RB,2,Right,2,3,3,High/Medium,80,61,72,74,82,81,83
-232073,https://sofifa.com/player/232073/mallory-pugh/220002,M. Pugh,Mallory Diane Pugh,"RW, LW, CM",83,90,23,29/04/98,163,54,95,United States,113009,SUB,2,Right,3,4,3,High/Medium,88,79,75,84,33,56,87
-232077,https://sofifa.com/player/232077/adrianna-franch/220002,A. Franch,Adrianna Nichole Franch,GK,83,83,30,12/11/90,175,68,95,United States,113009,SUB,21,Right,2,1,3,Medium/Medium,,,,,,,43
-233747,https://sofifa.com/player/233747/sherida-spitse/220002,S. Spitse,Sherida Spitse,"CDM, CM",83,83,31,29/05/90,167,61,34,Netherlands,113011,CDM,8,Right,4,3,3,Medium/High,66,74,86,75,76,75,65
-235659,https://sofifa.com/player/235659/nikita-parris/220002,N. Parris,Nikita Josephine Parris,"RM, ST, RW",83,83,27,10/03/94,164,59,14,England,113002,RM,7,Right,4,4,3,High/Medium,90,78,76,85,58,62,91
-245205,https://sofifa.com/player/245205/debora-mariana-ruiz-couto/220002,Miri Couto,Débora Mariana Ruiz Couto,ST,83,83,29,29/02/92,168,65,54,Brazil,112999,RS,9,Left,5,4,1,High/Medium,87,83,79,89,28,70,88
-245206,https://sofifa.com/player/245206/emanuelly-jade-goncalves-barni/220002,Emanuelly Barni,Emanuelly Jade Gonçalves Barni,LM,83,83,29,29/02/92,163,58,54,Brazil,112999,LM,10,Left,4,4,1,High/Medium,89,76,80,83,27,64,86
-246272,https://sofifa.com/player/246272/marie-katoto/220002,M. Katoto,Marie-Antoinette Oda Katoto,ST,83,91,22,01/11/98,176,66,18,France,113003,SUB,12,Right,4,4,3,High/Low,85,84,70,82,20,61,86
-226325,https://sofifa.com/player/226325/ali-krieger/220002,A. Krieger,Alexandra Blaire Krieger,"RB, CB",82,82,36,28/07/84,168,60,95,United States,113009,SUB,11,Right,3,4,3,Medium/High,76,62,77,74,79,79,75
-226354,https://sofifa.com/player/226354/melanie-leupolz/220002,M. Leupolz,Melanie Leupolz,"CM, CDM",82,82,27,14/04/94,173,52,21,Germany,113004,RDM,18,Right,3,4,3,Medium/High,83,76,83,84,73,71,85
-226375,https://sofifa.com/player/226375/kathrin-hendrich/220002,K. Hendrich,Kathrin-Julia Hendrich,"RB, CB",82,82,29,06/04/92,174,55,21,Germany,113004,SUB,5,Right,3,3,2,Medium/Medium,81,35,66,71,82,75,77
-226922,https://sofifa.com/player/226922/haiyan-wu/220002,Wu Haiyan,吴海燕,"CB, RB",82,82,28,26/02/93,166,58,155,China PR,113001,RCB,5,Right,4,2,2,Low/High,75,53,71,71,81,78,76
-227110,https://sofifa.com/player/227110/caitlin-foord/220002,C. Foord,Caitlin Jade Foord,"RW, LW, ST",82,83,26,11/11/94,165,61,195,Australia,112998,LW,9,Right,3,4,3,High/High,89,77,74,82,68,66,92
-227119,https://sofifa.com/player/227119/stephanie-catley/220002,S. Catley,Stephanie-Elise Catley,"LB, CB",82,83,27,26/01/94,171,60,195,Australia,112998,LM,7,Left,2,3,3,High/Medium,76,67,71,72,78,76,79
-227270,https://sofifa.com/player/227270/ellen-white/220002,E. White,Ellen Toni White Convery,"ST, LW",82,82,32,09/05/89,171,62,14,England,113002,ST,9,Right,3,3,2,High/Medium,63,84,64,75,43,82,60
-227281,https://sofifa.com/player/227281/kristine-minde/220002,K. Minde,Kristine Minde,"LB, LM",82,82,28,08/08/92,169,64,36,Norway,113007,SUB,17,Left,4,3,2,High/Medium,87,78,80,79,77,71,89
-227300,https://sofifa.com/player/227300/leonie-maier/220002,L. Maier,Leonie Rebekka Maier,"RB, LB",82,82,28,29/09/92,163,62,21,Germany,113004,RB,4,Right,4,4,2,High/Medium,80,60,73,79,81,69,84
-227323,https://sofifa.com/player/227323/guro-reiten/220002,G. Reiten,Guro Reiten,"LM, CAM, ST",82,82,26,26/07/94,167,60,36,Norway,113007,LM,16,Left,4,4,3,High/Medium,79,79,81,81,44,57,80
-227392,https://sofifa.com/player/227392/ashley-lawrence/220002,A. Lawrence,Ashley Elizabeth Marie Lawrence,"RB, CM, LB",82,85,26,11/06/95,164,58,70,Canada,113000,RB,10,Right,3,3,3,High/Medium,83,70,83,80,78,76,86
-227410,https://sofifa.com/player/227410/desiree-scott/220002,D. Scott,Desiree Rose Marie Scott,"CDM, CM",82,82,33,31/07/87,154,65,70,Canada,113000,LDM,11,Right,3,3,3,Low/High,67,51,72,72,79,84,68
-233749,https://sofifa.com/player/233749/sari-van-veenendaal/220002,S. van Veenendaal,Sari van Veenendaal,GK,82,82,31,03/04/90,180,72,34,Netherlands,113011,GK,1,Right,2,1,3,Medium/Medium,,,,,,,30
-236641,https://sofifa.com/player/236641/abby-dahlkemper/220002,A. Dahlkemper,Abigail Lynn Dahlkemper,CB,82,83,28,13/05/93,170,54,95,United States,113009,RCB,7,Right,3,2,3,Medium/High,71,49,75,68,84,81,68
-238257,https://sofifa.com/player/238257/millie-bright/220002,M. Bright,Millie Bright,CB,82,84,27,21/08/93,178,76,14,England,113002,SUB,15,Right,4,2,2,Medium/High,57,46,63,63,83,86,51
-239345,https://sofifa.com/player/239345/linda-dallmann/220002,L. Dallmann,Linda Dallmann,"CAM, LM, CF",82,83,26,02/09/94,158,51,21,Germany,113004,SUB,16,Right,4,4,2,High/Medium,82,76,78,86,47,59,84
-240030,https://sofifa.com/player/240030/ellie-carpenter/220002,E. Carpenter,Ellie Madison Carpenter,RB,82,91,21,28/04/00,165,60,195,Australia,112998,RCB,3,Right,3,3,2,High/Low,85,46,73,76,77,79,86
-240714,https://sofifa.com/player/240714/jill-roord/220002,J. Roord,Jill Jamie Roord,"LW, CAM, RW",82,86,24,22/04/97,175,63,34,Netherlands,113011,RW,19,Right,4,4,3,Medium/Medium,69,80,81,83,53,67,72
-245188,https://sofifa.com/player/245188/julia-maria-mutto-sampaio/220002,Jully Mutto,Júlia Maria Mutto Sampaio,CB,82,82,33,29/02/88,170,68,54,Brazil,112999,LCB,6,Right,3,2,1,Medium/Medium,72,39,58,64,84,80,71
-245193,https://sofifa.com/player/245193/paloma-isa-sa-bastos/220002,Palomy Bastos,Paloma Isa Sá Bastos,ST,82,82,33,29/02/88,172,67,54,Brazil,112999,LS,7,Left,3,4,1,Medium/Medium,77,83,67,82,23,73,79
-247789,https://sofifa.com/player/247789/merle-frohms/220002,M. Frohms,Merle Frohms,GK,82,85,26,28/01/95,175,60,21,Germany,113004,SUB,1,Right,3,1,2,Medium/Medium,,,,,,,40
-248822,https://sofifa.com/player/248822/klara-buhl/220002,K. Bühl,Klara Bühl,"ST, RM",82,89,20,07/12/00,172,65,21,Germany,113004,SUB,19,Right,4,4,1,High/Medium,82,83,75,84,24,62,81
-258310,https://sofifa.com/player/258310/ann-katrin-berger/220002,A. Berger,Ann-Katrin Berger,GK,82,83,30,09/10/90,180,63,21,Germany,113004,SUB,21,Right,3,1,2,Medium/Medium,,,,,,,37
-227101,https://sofifa.com/player/227101/emilie-haavi/220002,E. Haavi,Emilie Bosshard Haavi,"LM, RM",81,81,29,16/06/92,164,59,36,Norway,113007,SUB,20,Right,3,3,2,High/High,93,62,80,82,66,65,91
-227118,https://sofifa.com/player/227118/lydia-williams/220002,L. Williams,Lydia Grace Yilkari Williams,GK,81,81,33,13/05/88,175,63,195,Australia,112998,GK,1,Right,2,1,3,Medium/Medium,,,,,,,47
-227776,https://sofifa.com/player/227776/sandra-panos-garcia/220002,Sandra Paños,Sandra Paños García-Villamil,GK,81,83,28,04/11/92,169,65,45,Spain,113012,GK,13,Right,3,1,2,Medium/Medium,,,,,,,44
-236479,https://sofifa.com/player/236479/maria-pilar-leon-cebrian/220002,Mapi León,María Pilar León Cebrián,"CB, LB",81,86,26,13/06/95,169,61,45,Spain,113012,LCB,16,Left,3,2,3,Medium/Medium,72,39,70,65,83,73,73
-239791,https://sofifa.com/player/239791/hanna-glas/220002,H. Glas,Hanna Erica Maria Glas,"RB, RWB, CB",81,81,28,16/04/93,172,64,46,Sweden,113008,RB,4,Right,3,2,2,Medium/Medium,73,53,68,69,80,75,72
-244302,https://sofifa.com/player/244302/lea-schuller/220002,L. Schüller,Lea Schüller,ST,81,87,23,12/11/97,173,62,21,Germany,113004,ST,7,Right,3,3,2,Medium/Medium,87,81,67,78,32,67,86
-245177,https://sofifa.com/player/245177/leticia-lia-medeiros-resende/220002,Letinha Lia,Letícia Lia Medeiros Resende,LB,81,81,37,29/02/84,170,66,54,Brazil,112999,LB,3,Left,3,4,1,High/Low,81,52,70,80,77,74,84
-245194,https://sofifa.com/player/245194/iris-isabella-orsi-da-silva/220002,Isinha Macapá,Íris Isabella Orsi da Silva,RM,81,81,33,29/02/88,164,57,54,Brazil,112999,RM,11,Left,5,4,1,High/Medium,89,55,79,81,29,58,90
-245199,https://sofifa.com/player/245199/rebeca-lia-saudera-peixoto/220002,Becky Saudera,Rebeca Lia Saudera Peixoto,CDM,81,81,29,29/02/92,170,65,54,Brazil,112999,LCM,5,Right,2,3,1,Low/High,66,66,72,69,78,80,64
-247791,https://sofifa.com/player/247791/sydney-lohmann/220002,S. Lohmann,Sydney Lohmann,"CAM, CM",81,89,21,19/06/00,174,64,21,Germany,113004,SUB,8,Right,3,3,1,High/High,70,79,77,80,75,76,68
-248715,https://sofifa.com/player/248715/marina-hegering/220002,M. Hegering,Marina Hegering,CB,81,81,31,17/04/90,170,59,21,Germany,113004,RCB,3,Right,3,2,2,High/Medium,71,35,52,67,83,79,67
-261781,https://sofifa.com/player/261781/tessa-wullaert/220002,T. Wullaert,Tessa Wullaert,"ST, LW, CAM",81,81,28,19/03/93,168,60,7,Belgium,113394,LW,9,Right,4,4,3,High/Low,84,81,79,81,26,67,82
-226360,https://sofifa.com/player/226360/shuang-wang/220002,Wang Shuang,王霜,"ST, CAM",80,83,26,23/01/95,165,59,155,China PR,113001,SUB,7,Left,4,3,3,Medium/Medium,86,79,74,81,43,69,88
-226960,https://sofifa.com/player/226960/jiali-tang/220002,Tang Jiali,唐佳丽,"ST, RM, LM",80,82,26,16/03/95,166,52,155,China PR,113001,RS,18,Right,3,3,1,Medium/Medium,82,79,73,78,57,73,81
-227112,https://sofifa.com/player/227112/elise-kellond-knight/220002,E. Kellond-Knight,Elise Kellond-Knight,"CDM, LB, CM",80,80,30,10/08/90,165,60,195,Australia,112998,SUB,8,Left,4,3,3,Medium/High,71,51,77,69,82,79,70
-227241,https://sofifa.com/player/227241/karen-bardsley/220002,K. Bardsley,Karen Louise Bardsley,GK,80,80,36,14/10/84,182,72,14,England,113002,SUB,13,Right,3,1,3,Medium/Medium,,,,,,,41
-227254,https://sofifa.com/player/227254/alex-greenwood/220002,A. Greenwood,Alex Greenwood,LB,80,80,27,07/09/93,168,62,14,England,113002,LB,3,Left,3,2,2,Medium/Medium,69,43,65,67,80,76,68
-227262,https://sofifa.com/player/227262/jill-scott/220002,J. Scott,Jill Louise Scott,"CM, CDM",80,80,34,02/02/87,182,68,14,England,113002,SUB,16,Right,3,4,3,High/High,59,73,71,75,78,87,57
-227269,https://sofifa.com/player/227269/carly-telford/220002,C. Telford,Carly Mitchell Telford,GK,80,80,33,07/07/87,174,64,14,England,113002,SUB,23,Right,3,1,1,Medium/Medium,,,,,,,50
-227381,https://sofifa.com/player/227381/janine-beckie/220002,J. Beckie,Janine Elizabeth Beckie,"LM, RM",80,80,26,20/08/94,173,63,70,Canada,113000,LM,16,Right,3,3,2,High/Medium,90,73,74,78,22,62,91
-227391,https://sofifa.com/player/227391/stephanie-labbe/220002,S. Labbé,Stephanie Lynn Marie Labbé,GK,80,80,34,10/10/86,178,64,70,Canada,113000,GK,1,Right,2,1,2,Medium/Medium,,,,,,,44
-231347,https://sofifa.com/player/231347/marion-torrent/220002,M. Torrent,Marion Torrent,RB,80,80,29,17/04/92,164,53,18,France,113003,RB,4,Right,3,3,2,High/Medium,68,53,69,72,79,68,70
-232074,https://sofifa.com/player/232074/emily-sonnett/220002,E. Sonnett,Emily Ann Sonnett,"RB, CB, CDM",80,81,27,25/11/93,170,68,95,United States,113009,SUB,14,Right,2,3,1,Medium/High,76,59,75,72,78,78,77
-233343,https://sofifa.com/player/233343/ali-riley/220002,A. Riley,Alexandra Lowe Riley,"LB, LM, LWB",80,80,33,30/10/87,164,54,198,New Zealand,113258,LB,7,Left,3,4,3,High/Medium,79,75,79,79,76,74,78
-233755,https://sofifa.com/player/233755/stefanie-van-der-gragt/220002,S. van der Gragt,Stefanie van der Gragt,CB,80,80,28,16/08/92,178,70,34,Netherlands,113011,LCB,3,Left,2,2,2,Low/High,62,53,66,57,81,84,54
-233838,https://sofifa.com/player/233838/felicitas-rauch/220002,F. Rauch,Felicitas Rauch,"LB, LM",80,85,25,30/04/96,167,61,21,Germany,113004,LB,17,Left,3,3,1,High/Medium,83,51,65,74,78,71,84
-235657,https://sofifa.com/player/235657/rachel-daly/220002,R. Daly,Rachel Ann Daly,"RM, RB",80,80,29,06/12/91,168,67,14,England,113002,SUB,17,Right,3,3,3,Medium/Medium,79,78,72,78,63,70,80
-237197,https://sofifa.com/player/237197/grace-geyoro/220002,G. Geyoro,Onema Grace Geyoro,"CDM, CB",80,89,23,02/07/97,166,60,18,France,113003,LDM,8,Right,2,3,2,Medium/Medium,75,52,71,76,78,67,74
-237673,https://sofifa.com/player/237673/kailen-sheridan/220002,K. Sheridan,Kailen Mary Iacovoni Sheridan,GK,80,83,25,16/07/95,176,72,70,Canada,113000,SUB,18,Right,2,1,1,Medium/Medium,,,,,,,18
-240717,https://sofifa.com/player/240717/lineth-beerensteyn/220002,L. Beerensteyn,Lineth Enid Fabienne Beerensteyn,"RW, ST, RB",80,84,24,11/10/96,161,62,34,Netherlands,113011,SUB,21,Right,2,4,2,High/Low,90,73,69,84,52,73,91
-243415,https://sofifa.com/player/243415/shimeng-peng/220002,Peng Shimeng,彭诗梦,GK,80,85,23,12/05/98,182,70,155,China PR,113001,GK,12,Right,1,1,2,Medium/Medium,,,,,,,45
-245197,https://sofifa.com/player/245197/julia-barbara-ruiz-gomes/220002,Julininha Ruiz,Júlia Bárbara Ruiz Gomes,GK,80,80,29,29/02/92,171,65,54,Brazil,112999,GK,1,Right,2,1,1,Medium/Medium,,,,,,,48
-245204,https://sofifa.com/player/245204/karen-isa-pombal-trigo/220002,Karole Pombal,Karen Isa Pombal Trigo,"CAM, RM",80,80,29,29/02/92,165,59,54,Brazil,112999,RCM,8,Right,4,4,1,Medium/Medium,76,69,75,81,27,47,78
-261773,https://sofifa.com/player/261773/laura-freigang/220002,L. Freigang,Laura Freigang,"ST, RW",80,85,23,11/02/98,172,64,21,Germany,113004,SUB,14,Right,3,3,1,Medium/Medium,79,81,53,75,23,61,77
-261785,https://sofifa.com/player/261785/janice-cayman/220002,J. Cayman,Janice Cayman,"RW, LW, ST",80,80,32,12/10/88,167,61,7,Belgium,113394,RW,11,Right,4,4,2,Medium/Medium,79,80,76,81,53,67,78
-226911,https://sofifa.com/player/226911/shanshan-liu/220002,Liu Shanshan,刘杉杉,LB,79,79,29,16/03/92,169,65,155,China PR,113001,SUB,2,Left,3,3,2,Medium/Medium,77,42,68,70,77,75,73
-227113,https://sofifa.com/player/227113/emily-van-egmond/220002,E. van Egmond,Emily Louise van Egmond,"CM, CAM, CF",79,79,27,12/07/93,179,70,195,Australia,112998,LCM,10,Right,3,4,3,Medium/Low,62,72,76,72,70,83,62
-227137,https://sofifa.com/player/227137/hayley-raso/220002,H. Raso,Hayley Emma Raso,"RW, LW",79,79,26,05/09/94,162,59,195,Australia,112998,RM,16,Right,3,3,2,High/Medium,93,74,67,83,33,63,95
-227264,https://sofifa.com/player/227264/demi-stokes/220002,D. Stokes,Demi Lee Courtney Stokes,LB,79,79,29,12/12/91,158,56,14,England,113002,SUB,12,Left,3,3,3,High/Medium,92,39,62,74,77,78,94
-227452,https://sofifa.com/player/227452/stephany-mayor/220002,S. Mayor,Sandra Stephany Mayor Gutierrez,"CAM, CM, RM",79,79,29,23/09/91,162,58,83,Mexico,113010,RM,10,Right,4,4,2,Medium/Medium,78,77,76,82,37,62,80
-233338,https://sofifa.com/player/233338/ria-percival/220002,R. Percival,Ria Dawn Percival,"RB, CDM",79,79,31,07/12/89,161,57,198,New Zealand,113258,RB,2,Right,3,4,2,High/Medium,74,65,80,76,78,60,75
-233752,https://sofifa.com/player/233752/shanice-van-de-sanden/220002,S. van de Sanden,Shanice Janice van de Sanden,RW,79,79,28,02/10/92,168,65,34,Netherlands,113011,SUB,7,Right,2,4,3,High/Low,94,70,71,77,39,77,93
-233756,https://sofifa.com/player/233756/dominique-janssen/220002,D. Janssen,Dominique Johanna Anna Petrone Janssen,"CB, RB, LB",79,80,26,17/01/95,174,67,34,Netherlands,113011,RB,20,Right,5,3,3,High/High,77,68,75,76,79,80,75
-236428,https://sofifa.com/player/236428/eve-perisset/220002,E. Perisset,Ève Josette Noelle Périsset,RB,79,81,26,24/12/94,160,55,18,France,113003,SUB,2,Right,2,3,1,High/Medium,77,46,72,75,77,72,80
-242830,https://sofifa.com/player/242830/keira-walsh/220002,K. Walsh,Keira Fae Walsh,"CDM, CM",79,88,24,08/04/97,168,67,14,England,113002,SUB,14,Right,3,3,2,Medium/Medium,79,40,75,76,73,78,83
-243403,https://sofifa.com/player/243403/claire-emslie/220002,C. Emslie,Claire Emslie,"RM, LM",79,79,27,08/03/94,174,68,42,Scotland,113984,RM,18,Right,3,4,3,Medium/Medium,79,72,74,78,34,65,82
-245186,https://sofifa.com/player/245186/bianca-rebeca-dias-ribeiro/220002,Bianca Revelia,Bianca Rebeca Dias Ribeiro,RB,79,79,33,29/02/88,157,53,54,Brazil,112999,RB,4,Right,3,3,1,High/Medium,85,44,71,77,75,68,83
-245202,https://sofifa.com/player/245202/rebeca-maria-jasper-redela/220002,Becky Redela,Rebeca Maria Jasper Redela,CB,79,79,29,29/02/92,172,70,54,Brazil,112999,RCB,2,Right,2,2,1,Low/High,59,34,51,57,82,80,56
-245873,https://sofifa.com/player/245873/jennifer-beattie/220002,J. Beattie,Jennifer Patricia Beattie,CB,79,79,30,13/05/91,177,69,42,Scotland,113984,LCB,5,Right,3,3,2,High/Medium,67,70,53,66,81,74,65
-245879,https://sofifa.com/player/245879/caroline-weir/220002,C. Weir,Caroline Elspeth Lillias Weir,"CM, CDM, CAM",79,82,26,20/06/95,172,60,42,Scotland,113984,LDM,9,Left,3,3,3,High/High,69,73,73,76,73,57,68
-261789,https://sofifa.com/player/261789/tine-de-caigny/220002,T. De Caigny,Tine De Caigny,"ST, CAM",79,84,24,09/06/97,175,62,7,Belgium,113394,ST,6,Right,3,3,1,Medium/Medium,78,81,65,74,32,71,72
-226915,https://sofifa.com/player/226915/ying-li/220002,Li Ying,李影,"LM, ST, RM",78,78,28,07/01/93,170,61,155,China PR,113001,LM,10,Left,3,3,2,Medium/Medium,79,80,74,77,38,73,80
-226940,https://sofifa.com/player/226940/jun-ma/220002,Ma Jun,马君,"CM, CDM",78,78,32,06/03/89,173,55,155,China PR,113001,LCM,8,Right,3,3,2,Medium/Medium,79,71,70,75,74,71,78
-226979,https://sofifa.com/player/226979/amanda-ilestedt/220002,A. Ilestedt,Amanda Ilestedt,CB,78,79,28,17/01/93,178,65,46,Sweden,113008,RCB,13,Right,3,2,2,Medium/Medium,78,36,54,53,78,80,76
-227109,https://sofifa.com/player/227109/alanna-kennedy/220002,A. Kennedy,Alanna Stephanie Kennedy,"CB, CDM",78,81,26,21/01/95,176,63,195,Australia,112998,LCB,5,Right,3,2,3,Medium/High,61,62,66,62,80,81,61
-227115,https://sofifa.com/player/227115/katrina-gorry/220002,K. Gorry,Katrina-Lee Gorry,"CM, CAM",78,78,28,13/08/92,154,54,195,Australia,112998,SUB,19,Right,4,4,3,Medium/Medium,75,71,76,81,65,58,80
-227193,https://sofifa.com/player/227193/marta-corredera-rueda/220002,Marta Corredera,Marta Corredera Rueda,"RB, RM, LB",78,78,29,08/08/91,162,59,45,Spain,113012,RB,7,Right,3,4,2,High/Medium,81,71,73,76,73,62,80
-227387,https://sofifa.com/player/227387/jessie-fleming/220002,J. Fleming,Jessie Alexandra Fleming,"CM, CAM",78,84,23,11/03/98,165,53,70,Canada,113000,CAM,17,Right,4,3,1,Medium/Medium,74,71,69,80,66,56,75
-227775,https://sofifa.com/player/227775/amanda-sampedro-bustos/220002,Amanda Sampedro,Amanda Sampedro Bustos,"RM, CM, CAM",78,78,28,26/06/93,161,55,45,Spain,113012,SUB,19,Right,4,3,3,High/High,79,75,77,78,72,71,78
-233337,https://sofifa.com/player/233337/erin-nayler/220002,E. Nayler,Erin Nicole Nayler,GK,78,79,29,17/04/92,175,68,198,New Zealand,113258,GK,1,Right,3,1,2,Medium/Medium,,,,,,,25
-233662,https://sofifa.com/player/233662/sakina-karchaoui/220002,S. Karchaoui,Sakina Karchaoui,LB,78,82,25,26/01/96,160,55,18,France,113003,LB,7,Left,2,4,1,Medium/Medium,85,47,74,79,74,54,88
-233757,https://sofifa.com/player/233757/merel-van-dongen/220002,M. van Dongen,Merel Didi van Dongen,"LB, CB",78,78,28,11/02/93,170,64,34,Netherlands,113011,LB,4,Left,2,3,2,High/Medium,65,54,71,74,77,79,64
-233854,https://sofifa.com/player/233854/anouk-dekker/220002,A. Dekker,Marieke Anouk Dekker,"CDM, CB",78,78,34,15/11/86,182,70,34,Netherlands,113011,SUB,6,Right,2,2,2,Low/High,50,65,71,63,81,85,44
-237289,https://sofifa.com/player/237289/patricia-guijarro-gutierrez/220002,Patri Guijarro,Patricia Guijarro Gutiérrez,"CM, CAM",78,86,23,17/05/98,170,64,45,Spain,113012,CM,12,Right,3,3,2,High/Medium,71,78,74,77,72,65,69
-243379,https://sofifa.com/player/243379/zecira-musovic/220002,Z. Mušović,Zećira Mušović,GK,78,84,25,26/05/96,178,66,46,Sweden,113008,SUB,22,Right,2,1,1,Medium/Medium,,,,,,,28
-243404,https://sofifa.com/player/243404/georgia-stanway/220002,G. Stanway,Georgia Marie Stanway,"CAM, CM",78,89,22,03/01/99,162,58,14,England,113002,LDM,4,Right,4,4,2,High/Medium,83,73,77,76,35,57,84
-245802,https://sofifa.com/player/245802/beth-mead/220002,B. Mead,Bethany Jane Mead,"LM, RM, LW",78,79,26,09/05/95,163,59,14,England,113002,SUB,19,Right,3,3,2,Medium/Medium,82,77,69,79,33,63,83
-245882,https://sofifa.com/player/245882/erin-cuthbert/220002,E. Cuthbert,Erin Jacqueline Cuthbert,"ST, CAM, CM",78,87,22,19/07/98,159,60,42,Scotland,113984,ST,22,Right,3,4,3,Medium/Medium,79,78,67,76,23,58,77
-246426,https://sofifa.com/player/246426/leah-williamson/220002,L. Williamson,Leah Cathrine Williamson,CB,78,83,24,29/03/97,170,65,14,England,113002,LCB,6,Right,3,2,1,Medium/Medium,66,47,57,60,79,71,64
-226917,https://sofifa.com/player/226917/shanshan-wang/220002,Wang Shanshan,王珊珊,"ST, LM, RM",77,77,31,27/01/90,169,57,155,China PR,113001,LS,11,Left,4,4,2,Medium/Medium,80,76,75,77,61,73,82
-226932,https://sofifa.com/player/226932/xin-zhang/220002,Zhang Xin,张馨,"RM, LM, ST",77,77,29,23/05/92,170,56,155,China PR,113001,RM,6,Left,4,3,1,Medium/Medium,75,60,75,74,47,55,73
-226985,https://sofifa.com/player/226985/olivia-schough/220002,O. Schough,Olivia Alma Charlotta Schough,"LW, LWB",77,77,30,11/03/91,172,60,46,Sweden,113008,SUB,15,Right,3,4,2,Medium/Medium,85,75,72,77,41,73,86
-226988,https://sofifa.com/player/226988/elin-rubensson/220002,E. Rubensson,Elin Ingrid Johanna Rubensson,"CDM, CM",77,77,28,11/05/93,166,60,46,Sweden,113008,SUB,23,Right,2,3,2,Medium/High,85,53,73,79,77,68,83
-227111,https://sofifa.com/player/227111/clare-polkinghorne/220002,C. Polkinghorne,Clare Elizabeth Polkinghorne,CB,77,77,32,01/02/89,171,67,195,Australia,112998,CB,4,Right,3,2,3,Medium/Medium,59,34,62,57,76,79,57
-227120,https://sofifa.com/player/227120/tameka-yallop/220002,T. Yallop,Tameka Yallop,"CAM, CM",77,77,30,16/06/91,158,55,195,Australia,112998,RCM,13,Right,3,3,2,Medium/Medium,71,68,77,76,61,75,68
-227195,https://sofifa.com/player/227195/virginia-torrecilla-reyes/220002,Virginia Torrecilla,Virginia Torrecilla Reyes,"CDM, CM",77,80,26,04/09/94,174,63,45,Spain,113012,SUB,14,Right,3,3,2,Medium/Medium,70,65,74,72,74,66,68
-227201,https://sofifa.com/player/227201/maria-victoria-losada-gomez/220002,Vicky Losada,María Victoria Losada Gómez,"CM, LM, RM",77,77,30,05/03/91,168,60,45,Spain,113012,SUB,6,Right,3,3,3,High/High,74,74,72,74,69,72,76
-227368,https://sofifa.com/player/227368/cecilie-h-fiskerstrand/220002,C. Fiskerstrand,Cecilie Hauståker Fiskerstrand,GK,77,81,25,20/03/96,174,66,36,Norway,113007,GK,1,Right,1,1,2,Medium/Medium,,,,,,,53
-227400,https://sofifa.com/player/227400/erin-mcleod/220002,E. McLeod,Erin Katrina McLeod,GK,77,77,38,26/02/83,173,73,70,Canada,113000,SUB,20,Right,2,1,3,Medium/Medium,,,,,,,39
-233350,https://sofifa.com/player/233350/katie-bowen/220002,K. Bowen,Kate Elizabeth Bowen,"CM, CDM, RB",77,78,27,15/04/94,170,56,198,New Zealand,113258,RCM,14,Right,3,4,2,Medium/Medium,79,59,78,75,71,70,78
-235585,https://sofifa.com/player/235585/jonna-andersson/220002,J. Andersson,Jonna Ann-Charlotte Andersson,"LB, LWB",77,77,28,02/01/93,167,64,46,Sweden,113008,SUB,2,Left,3,3,1,High/Medium,84,45,63,73,73,64,83
-236642,https://sofifa.com/player/236642/casey-krueger/220002,C. Krueger,Casey Marie Krueger,"LB, CB",77,77,30,23/08/90,173,58,95,United States,113009,SUB,20,Right,3,3,1,Medium/Medium,79,65,70,71,75,78,80
-237288,https://sofifa.com/player/237288/maria-francesca-caldentey-oliver/220002,Mariona,María Francesca Caldentey Oliver,"LW, RW, CAM",77,80,25,19/03/96,164,61,45,Spain,113012,LW,8,Right,4,3,2,High/Medium,68,74,76,79,48,67,70
-241667,https://sofifa.com/player/241667/aitana-bonmati-conca/220002,Aitana Bonmatí,Aitana Bonmatí Conca,"RM, CM, LM",77,85,23,18/01/98,161,51,45,Spain,113012,RCM,23,Right,3,4,1,Medium/Medium,72,72,74,78,61,61,73
-242895,https://sofifa.com/player/242895/vilde-boe-risa/220002,V. Risa,Vilde Bøe Risa,"CM, CDM",77,80,25,13/07/95,164,67,36,Norway,113007,RCM,8,Right,3,3,2,Medium/Medium,69,69,77,75,64,65,70
-243419,https://sofifa.com/player/243419/yuping-lin/220002,Lin Yuping,林宇萍,CB,77,77,29,28/02/92,180,63,155,China PR,113001,LCB,3,Right,3,2,2,Low/High,79,49,68,64,78,76,77
-245196,https://sofifa.com/player/245196/melinda-marina-regalo-goncalves/220002,Melinda Goiás,Melinda Marina Regalo Gonçalves,LM,77,77,29,29/02/92,164,56,54,Brazil,112999,SUB,13,Right,3,4,1,High/High,79,71,74,75,29,62,76
-245876,https://sofifa.com/player/245876/emma-mitchell/220002,E. Mitchell,Emma Mitchell,LB,77,77,28,19/09/92,165,59,42,Scotland,113984,SUB,17,Left,3,3,2,Medium/Medium,77,40,61,70,74,68,75
-245878,https://sofifa.com/player/245878/lisa-evans/220002,L. Evans,Lisa Catherine Evans,"RM, LM",77,77,29,21/05/92,166,54,42,Scotland,113984,LM,11,Right,3,4,2,Medium/High,80,70,71,77,48,56,79
-246317,https://sofifa.com/player/246317/aniek-nouwen/220002,A. Nouwen,Aniek Nouwen,CB,77,83,22,09/03/99,174,65,34,Netherlands,113011,RCB,2,Right,3,2,1,Medium/High,70,55,55,58,79,77,68
-247461,https://sofifa.com/player/247461/nathalie-bjorn/220002,N. Björn,Gun Nathalie Björn,"RB, CB, CDM",77,84,24,04/05/97,174,67,46,Sweden,113008,LCB,14,Right,3,3,1,Medium/High,80,40,67,71,75,70,77
-247796,https://sofifa.com/player/247796/ellie-roebuck/220002,E. Roebuck,Ellie Roebuck,GK,77,86,21,23/09/99,174,67,14,England,113002,GK,1,Right,3,1,1,Medium/Medium,,,,,,,41
-256489,https://sofifa.com/player/256489/bethany-england/220002,B. England,Bethany England,ST,77,78,27,03/06/94,166,61,14,England,113002,SUB,18,Right,4,3,2,High/Medium,79,80,64,76,46,67,78
-259484,https://sofifa.com/player/259484/qingwei-zhai/220002,Zhai Qingwei,翟晴苇,LB,77,82,24,24/09/96,163,57,155,China PR,113001,LB,19,Left,3,3,1,Medium/Medium,67,33,57,60,78,54,65
-261836,https://sofifa.com/player/261836/claudia-teresa-pires-neto/220002,Cláudia Neto,Cláudia Teresa Pires Neto,"CAM, RM, ST",77,77,33,18/04/88,164,55,38,Portugal,115682,RM,7,Right,3,4,3,Medium/Medium,76,77,77,74,45,61,75
-226913,https://sofifa.com/player/226913/rui-zhang/220002,Zhang Rui,张睿,"CM, CAM, CDM",76,76,32,17/01/89,172,62,155,China PR,113001,SUB,20,Right,3,3,2,High/High,81,76,77,74,68,77,83
-226929,https://sofifa.com/player/226929/yasha-gu/220002,Gu Yasha,古雅沙,LM,76,76,30,28/11/90,165,60,155,China PR,113001,SUB,17,Left,3,4,2,Medium/Low,84,74,72,73,43,64,86
-227348,https://sofifa.com/player/227348/viviane-asseyi/220002,V. Asseyi,Viviane Marie-Louise Blanche Asseyi,"RM, ST, CAM",76,76,27,20/11/93,163,59,18,France,113003,SUB,18,Right,3,3,1,High/Low,89,65,71,76,48,62,87
-227353,https://sofifa.com/player/227353/kenza-dali/220002,K. Dali,Kenza Dali,"RM, CM",76,76,29,31/07/91,165,62,18,France,113003,CAM,15,Right,3,4,2,Medium/Medium,74,72,75,76,63,67,75
-227384,https://sofifa.com/player/227384/allysha-chapman/220002,A. Chapman,Allysha Lyn Chapman,"LB, RB",76,76,32,25/01/89,160,57,70,Canada,113000,LB,2,Left,3,2,2,Medium/Medium,76,35,52,57,77,75,79
-233150,https://sofifa.com/player/233150/leila-ouahabi-el-ouahabi/220002,Leila Ouahabi,Leila Ouahabi El Ouahabi,LB,76,76,28,22/03/93,172,61,45,Spain,113012,SUB,15,Left,3,3,1,High/Medium,74,48,64,68,75,71,70
-233856,https://sofifa.com/player/233856/kika-van-es/220002,K. van Es,Kika van Es,"LB, RB, CB",76,76,29,11/10/91,169,62,34,Netherlands,113011,SUB,5,Right,4,3,1,Medium/High,70,61,68,72,75,78,64
-235594,https://sofifa.com/player/235594/shelina-zadorsky/220002,S. Zadorsky,Shelina Laura Zadorsky,CB,76,76,28,24/10/92,172,67,70,Canada,113000,LCB,4,Left,3,2,2,Medium/High,66,24,61,60,77,80,64
-236648,https://sofifa.com/player/236648/aissatou-tounkara/220002,A. Tounkara,Aïssatou Tounkara,CB,76,79,26,16/03/95,174,60,18,France,113003,SUB,5,Right,2,2,2,Medium/Medium,64,32,57,56,77,76,66
-244303,https://sofifa.com/player/244303/turid-knaak/220002,T. Knaak,Turid Knaak,"CAM, ST, LM",76,76,30,24/01/91,168,53,21,Germany,113004,SUB,22,Right,3,4,1,Medium/Medium,81,72,72,80,35,55,78
-245178,https://sofifa.com/player/245178/amanda-cecilia-santos-sendela/220002,Cecil Sendela,Amanda Cecília Santos Sendela,LM,76,76,21,29/02/00,164,55,54,Brazil,112999,SUB,19,Left,2,4,1,Medium/Medium,78,67,73,77,24,54,76
-245181,https://sofifa.com/player/245181/juliana-zoe-meire-carvalho/220002,Zoe Tocantins,Juliana Zoe Meire Carvalho,"CB, LB",76,76,37,29/02/84,173,68,54,Brazil,112999,SUB,14,Left,3,2,1,Medium/Medium,65,24,56,56,79,70,62
-245195,https://sofifa.com/player/245195/isabel-camila-magela-acuna/220002,Isaby Camila,Isabel Camila Magela Acuna,"RM, LM",76,76,33,29/02/88,163,58,54,Brazil,112999,SUB,15,Right,4,3,1,Medium/Medium,76,61,72,72,23,58,78
-245200,https://sofifa.com/player/245200/isabella-nicole-cintra-torres/220002,Niccole Cintra,Isabella Nicole Cintra Torres,"ST, CF",76,76,29,29/02/92,163,58,54,Brazil,112999,SUB,16,Right,3,4,1,Medium/Medium,69,77,51,77,18,57,71
-245821,https://sofifa.com/player/245821/karina-saevik/220002,K. Sævik,Karina Sævik,"RM, LM",76,79,25,24/03/96,173,62,36,Norway,113007,RM,21,Right,3,3,1,High/Medium,79,68,75,76,56,65,81
-245871,https://sofifa.com/player/245871/lee-alexander/220002,L. Alexander,Lee Alexander,GK,76,77,29,23/09/91,170,65,42,Scotland,113984,GK,1,Right,2,1,2,Medium/Medium,,,,,,,15
-245875,https://sofifa.com/player/245875/rachel-corsie/220002,R. Corsie,Rachel Louise Corsie,CB,76,76,31,17/08/89,175,69,42,Scotland,113984,RCB,4,Right,3,2,2,Medium/Medium,64,30,48,47,78,73,63
-246152,https://sofifa.com/player/246152/jennifer-falk/220002,J. Falk,Jennifer Miley Falk,GK,76,77,28,26/04/93,171,64,46,Sweden,113008,SUB,12,Right,2,1,1,Medium/Medium,,,,,,,29
-246153,https://sofifa.com/player/246153/anna-anvegard/220002,A. Anvegård,Anna Elin Astrid Anvegård,ST,76,82,24,10/05/97,167,65,46,Sweden,113008,SUB,19,Right,3,3,1,High/Medium,75,79,66,78,45,55,73
-247116,https://sofifa.com/player/247116/mengwen-li/220002,Li Mengwen,李梦雯,"RB, CM",76,78,26,28/03/95,165,56,155,China PR,113001,SUB,4,Right,3,3,1,Medium/Medium,57,54,71,66,78,62,55
-261740,https://sofifa.com/player/261740/jule-brand/220002,J. Brand,Jule Brand,"LM, ST, CM",76,84,18,16/10/02,177,62,21,Germany,113004,SUB,24,Left,3,3,1,High/High,85,69,72,73,52,54,84
-261782,https://sofifa.com/player/261782/julie-biesmans/220002,J. Biesmans,Julie Biesmans,"CB, CDM",76,78,27,04/05/94,173,68,7,Belgium,113394,RCB,20,Right,3,2,1,Medium/Medium,70,30,65,67,78,74,67
-261829,https://sofifa.com/player/261829/carole-da-silva-costa/220002,Carole Costa,Carole da Silva Costa,CB,76,76,31,03/05/90,173,60,38,Portugal,115682,RCB,15,Right,3,2,1,Medium/Medium,64,36,45,45,77,72,60
-261831,https://sofifa.com/player/261831/ana-catarina-marques-borges/220002,Ana Borges,Ana Catarina Marques Borges,"RB, RM, RW",76,76,31,15/06/90,159,54,38,Portugal,115682,RB,9,Right,3,3,1,High/Medium,77,42,55,58,75,69,78
-226912,https://sofifa.com/player/226912/li-yang/220002,Yang Li,杨丽,ST,75,75,30,31/01/91,167,58,155,China PR,113001,SUB,9,Right,4,4,3,High/Medium,87,74,66,74,33,67,86
-226923,https://sofifa.com/player/226923/peng-han/220002,Han Peng,韩鹏,"RB, LB, LM",75,75,31,20/12/89,165,60,155,China PR,113001,RB,14,Right,4,3,2,High/Medium,83,67,73,74,70,70,85
-227404,https://sofifa.com/player/227404/quinn/220002,Quinn,Quinn Quinn,"CB, CDM, CM",75,78,25,11/08/95,175,65,70,Canada,113000,RDM,5,Right,3,2,2,Medium/Medium,74,35,67,64,75,78,76
-227780,https://sofifa.com/player/227780/ivana-andres-sanz/220002,Ivana Andrés,Ivana Andrés Sanz,CB,75,78,26,13/07/94,164,60,45,Spain,113012,SUB,5,Right,3,2,1,High/Medium,61,45,56,48,76,74,57
-227925,https://sofifa.com/player/227925/mackenzie-arnold/220002,M. Arnold,Mackenzie Elizabeth Arnold,GK,75,79,27,25/02/94,179,76,195,Australia,112998,SUB,18,Right,2,1,1,Medium/Medium,,,,,,,51
-228800,https://sofifa.com/player/228800/emily-alvarado/220002,E. Alvarado,Emily Alvarado,GK,75,85,23,09/06/98,180,72,83,Mexico,113010,GK,1,Right,2,1,1,Medium/Medium,,,,,,,39
-228840,https://sofifa.com/player/228840/fengyue-pang/220002,Pang Fengyue,庞丰月,"RM, CM",75,75,32,19/01/89,165,59,155,China PR,113001,SUB,23,Right,4,3,2,Medium/Medium,60,67,74,75,64,72,62
-231637,https://sofifa.com/player/231637/chloe-logarzo/220002,C. Logarzo,Chloe Logarzo,"CAM, LM, RM",75,77,26,22/12/94,165,51,195,Australia,112998,SUB,6,Right,4,3,2,Medium/Medium,80,68,69,75,41,60,84
-233153,https://sofifa.com/player/233153/andrea-pereira-cejudo/220002,Andrea Pereira,Andrea Pereira Cejudo,CB,75,77,27,19/09/93,164,62,45,Spain,113012,SUB,20,Right,4,2,1,Low/Medium,58,29,52,49,77,72,61
-233244,https://sofifa.com/player/233244/esther-gonzalez-rodriguez/220002,Esther González,Esther González Rodríguez,"ST, CAM",75,75,28,08/12/92,164,54,45,Spain,113012,SUB,18,Right,3,3,1,High/Medium,62,81,57,74,26,58,63
-233323,https://sofifa.com/player/233323/lisa-marie-utland/220002,L. Utland,Lisa-Marie Karlseng Utland,"ST, RM",75,75,28,19/09/92,171,63,36,Norway,113007,ST,11,Right,3,3,1,Medium/Medium,71,77,52,73,28,71,71
-233351,https://sofifa.com/player/233351/meikayla-moore/220002,M. Moore,Meikayla Jean-Maree Moore,"CB, RB",75,80,25,04/06/96,172,67,198,New Zealand,113258,RCB,5,Right,3,2,1,Medium/Medium,66,32,59,62,77,75,62
-233352,https://sofifa.com/player/233352/annalie-longo/220002,A. Longo,Annalie Antonia Longo,"CM, CAM, CDM",75,75,30,01/07/91,157,56,198,New Zealand,113258,LCM,10,Right,3,4,1,High/High,70,70,72,78,60,67,74
-233861,https://sofifa.com/player/233861/inessa-kaagman/220002,I. Kaagman,Inessa Kaagman,"CAM, CM",75,77,25,17/04/96,170,56,34,Netherlands,113011,SUB,22,Right,4,3,1,High/Medium,65,76,75,73,37,66,66
-235962,https://sofifa.com/player/235962/nichelle-prince/220002,N. Prince,Nichelle Patrice Prince,"RM, ST",75,76,26,19/02/95,163,65,70,Canada,113000,RM,15,Right,3,3,1,High/Low,92,69,65,77,21,64,93
-239761,https://sofifa.com/player/239761/frida-l-maanum/220002,F. Maanum,Frida Leonhardsen Maanum,"CM, CAM, RM",75,85,21,16/07/99,173,53,36,Norway,113007,SUB,18,Right,3,3,1,High/Medium,77,67,72,80,55,59,79
-240720,https://sofifa.com/player/240720/renate-jansen/220002,R. Jansen,Renate Jansen,"RW, ST",75,75,30,07/12/90,166,60,34,Netherlands,113011,SUB,13,Right,3,3,1,High/Medium,76,75,67,76,58,71,74
-241547,https://sofifa.com/player/241547/solene-durand/220002,S. Durand,Solène Durand,GK,75,76,26,20/11/94,170,66,18,France,113003,SUB,1,Right,2,1,1,Medium/Medium,,,,,,,28
-242796,https://sofifa.com/player/242796/lucia-garcia-cordoba/220002,Lucía García,Lucía García Córdoba,"ST, RM, LM",75,84,22,14/07/98,163,56,45,Spain,113012,SUB,17,Right,3,3,1,High/Low,71,80,60,77,30,56,70
-244059,https://sofifa.com/player/244059/katja-snoeijs/220002,K. Snoeijs,Katja Snoeijs,ST,75,79,24,01/08/96,172,62,34,Netherlands,113011,SUB,17,Right,3,3,1,Medium/Low,78,75,62,72,27,65,76
-245185,https://sofifa.com/player/245185/ana-iris-lopes-vieira/220002,Iris Vieirinha,Ana Iris Lopes Vieira,GK,75,75,33,29/02/88,169,60,54,Brazil,112999,SUB,12,Left,3,1,1,Medium/Medium,,,,,,,25
-245198,https://sofifa.com/player/245198/isia-jade-selva-kenedy/220002,Jandinha Kenedy,Isia Jade Selva Kenedy,"RB, LB, CB",75,75,29,29/02/92,165,62,54,Brazil,112999,SUB,17,Right,2,2,1,Medium/Medium,71,37,58,55,76,67,72
-245877,https://sofifa.com/player/245877/sophie-howard/220002,S. Howard,Sophie Louise Howard,"RB, CB",75,76,27,17/09/93,175,59,42,Scotland,113984,RB,15,Right,3,3,1,High/Medium,69,41,58,55,75,73,70
-245884,https://sofifa.com/player/245884/fiona-brown/220002,F. Brown,Fiona Alison Brown,"LM, RM, CM",75,76,26,31/03/95,165,55,42,Scotland,113984,SUB,20,Right,3,4,1,Medium/Medium,76,72,68,76,33,68,78
-245889,https://sofifa.com/player/245889/kirsty-smith/220002,K. Smith,Kirsty Anele Smith,"RB, LB",75,76,27,06/01/94,164,55,42,Scotland,113984,SUB,2,Right,3,3,1,Medium/Medium,81,34,58,63,73,57,83
-246286,https://sofifa.com/player/246286/nahikari-garcia-perez/220002,Nahikari,Nahikari García Pérez,ST,75,79,24,10/03/97,160,52,45,Spain,113012,SUB,22,Right,3,4,1,Medium/Medium,75,77,65,74,21,56,75
-247462,https://sofifa.com/player/247462/madelen-janogy/220002,M. Janogy,Madelen Fatimma Maria Janogy,"ST, LW",75,79,25,12/11/95,164,57,46,Sweden,113008,SUB,7,Right,3,3,1,Medium/Medium,80,77,53,75,45,60,81
-247513,https://sofifa.com/player/247513/vanessa-gilles/220002,V. Gilles,Vanessa Brigitte Gilles,CB,75,79,24,03/11/96,170,56,70,Canada,113000,SUB,23,Right,3,2,1,Medium/Medium,59,51,50,43,75,81,58
-253436,https://sofifa.com/player/253436/ona-batlle-pascual/220002,Ona Batlle,Ona Batlle Pascual,"LB, RB, CB",75,83,22,10/06/99,165,53,45,Spain,113012,LB,2,Right,4,3,1,High/Medium,72,35,54,62,74,58,73
-257001,https://sofifa.com/player/257001/chloe-kelly/220002,C. Kelly,Chloe Maggie Kelly,"RM, RW",75,84,23,15/01/98,161,58,14,England,113002,SUB,22,Right,3,3,1,Medium/Medium,75,73,72,77,48,52,74
-257008,https://sofifa.com/player/257008/lauren-hemp/220002,L. Hemp,Lauren May Hemp,"LM, LW",75,88,20,07/08/00,163,59,14,England,113002,LM,11,Left,2,3,1,Medium/High,82,66,73,73,54,61,80
-259485,https://sofifa.com/player/259485/lingwei-yao/220002,Yao Lingwei,姚凌薇,"CM, CDM, CB",75,79,25,05/12/95,165,63,155,China PR,113001,RCM,16,Right,3,3,1,Medium/Medium,67,64,66,72,66,61,68
-261783,https://sofifa.com/player/261783/laura-deloose/220002,L. Deloose,Laura Deloose,RB,75,75,28,18/06/93,164,56,7,Belgium,113394,RB,22,Right,3,3,1,Medium/Medium,74,46,67,62,75,72,72
-261790,https://sofifa.com/player/261790/davina-philtjens/220002,D. Philtjens,Davina Philtjens,LB,75,75,32,26/02/89,150,52,7,Belgium,113394,LB,2,Left,3,3,1,Medium/Medium,74,57,70,70,73,53,77
-261830,https://sofifa.com/player/261830/dolores-isabel-jacome-da-silva/220002,Dolores Silva,Dolores Isabel Jácome da Silva,"CDM, CM",75,75,29,07/08/91,167,54,38,Portugal,115682,RCM,14,Right,3,3,1,Medium/Medium,65,50,72,54,74,65,64
-261832,https://sofifa.com/player/261832/silvia-marisa-garcia-rebelo/220002,Sílvia Rebelo,Sílvia Marisa García Rebelo,CB,75,75,32,20/05/89,173,66,38,Portugal,115682,LCB,4,Right,3,2,1,Low/Medium,63,25,46,45,76,74,56
-262330,https://sofifa.com/player/262330/catarina-macario/220002,C. Macario,Catarina Macario,ST,75,75,30,04/10/90,165,64,95,United States,113009,SUB,22,Right,3,3,1,High/Medium,82,75,68,77,46,71,83
-263964,https://sofifa.com/player/263964/filippa-angeldahl/220002,F. Angeldahl,Filippa Angeldahl,CM,75,82,23,14/07/97,170,56,46,Sweden,113008,RCM,16,Right,3,2,1,Medium/Medium,69,62,75,72,70,63,68
-227003,https://sofifa.com/player/227003/lina-hurtig/220002,L. Hurtig,Lina Mona Andréa Hurtig,"LW, LM",74,75,25,05/09/95,180,69,46,Sweden,113008,SUB,8,Right,3,3,1,Medium/Medium,69,77,73,73,32,74,68
-227116,https://sofifa.com/player/227116/kyah-simon/220002,K. Simon,Kyah Pam Simon,"ST, CAM",74,74,30,25/06/91,164,63,195,Australia,112998,RW,17,Right,4,4,3,Medium/Low,78,75,58,75,42,70,79
-227397,https://sofifa.com/player/227397/adriana-leon/220002,A. Leon,Adriana Kristina Leon,"LW, RW",74,74,28,02/10/92,160,59,70,Canada,113000,SUB,19,Right,3,3,2,Medium/Medium,80,75,67,74,25,59,80
-228585,https://sofifa.com/player/228585/charlotte-bilbault/220002,C. Bilbault,Charlotte Bilbault,"CDM, CM",74,74,31,05/06/90,168,65,18,France,113003,SUB,14,Right,3,2,1,Medium/High,69,44,63,64,70,80,71
-233330,https://sofifa.com/player/233330/maria-thorisdottir/220002,M. Thorisdottir,Maria Thorisdottir,"CB, CDM",74,75,28,05/06/93,171,68,36,Norway,113007,LCB,3,Left,2,2,2,Medium/Medium,80,32,61,70,75,74,81
-233862,https://sofifa.com/player/233862/loes-geurts/220002,L. Geurts,Loes Geurts,GK,74,74,35,12/01/86,168,63,34,Netherlands,113011,SUB,23,Right,2,1,2,Medium/Medium,,,,,,,22
-243769,https://sofifa.com/player/243769/margaret-purce/220002,M. Purce,Margaret Purce,"RM, RWB",74,77,25,18/09/95,165,56,95,United States,113009,SUB,25,Right,2,3,1,High/Medium,87,48,70,75,50,55,90
-245183,https://sofifa.com/player/245183/clara-elisa-leal-porfirio/220002,Kla Elisinha,Clara Elisa Leal Porfírio,"CDM, CM",74,74,37,29/02/84,166,63,54,Brazil,112999,SUB,18,Left,3,2,1,Medium/Medium,59,37,58,53,74,73,58
-245191,https://sofifa.com/player/245191/giovana-beatriz-inacio-maia/220002,Giovanny Bia,Giovana Beatriz Inácio Maia,"CDM, CM",74,74,33,29/02/88,159,58,54,Brazil,112999,SUB,20,Right,3,2,1,Medium/Medium,61,31,65,48,72,75,60
-245201,https://sofifa.com/player/245201/olivia-jade-magela-bardini/220002,Magi Bardini,Olívia Jade Magela Bardini,"CAM, CM",74,74,29,29/02/92,158,51,54,Brazil,112999,SUB,21,Left,3,4,1,High/Low,66,71,76,77,52,58,68
-245880,https://sofifa.com/player/245880/jane-ross/220002,J. Ross,Jane Celestina Ross,"ST, RM, CAM",74,74,31,18/09/89,165,60,42,Scotland,113984,SUB,13,Right,3,4,1,Medium/Medium,74,74,64,75,23,56,73
-245885,https://sofifa.com/player/245885/lana-clelland/220002,L. Clelland,Lana Clelland,"ST, RM",74,74,28,26/01/93,173,65,42,Scotland,113984,SUB,19,Right,3,3,1,Medium/Medium,82,72,58,73,19,67,80
-245886,https://sofifa.com/player/245886/christie-murray/220002,C. Murray,Christie Murray,"CM, CDM, CAM",74,74,31,03/05/90,156,50,42,Scotland,113984,RDM,16,Right,3,3,1,Medium/Medium,65,69,72,72,78,57,64
-245888,https://sofifa.com/player/245888/joanne-love/220002,J. Love,Joanne Love,"CM, CDM, RM",74,74,35,06/12/85,160,60,42,Scotland,113984,SUB,6,Right,3,3,1,Medium/Medium,66,68,69,73,70,62,65
-245891,https://sofifa.com/player/245891/hayley-lauder/220002,H. Lauder,Hayley Lauder,"LB, LM",74,74,31,04/06/90,170,62,42,Scotland,113984,LB,7,Left,3,3,1,High/Medium,77,57,63,69,72,64,76
-246178,https://sofifa.com/player/246178/pauline-peyraud-magnin/220002,P. Peyraud-Magnin,Pauline Camille Peyraud-Magnin,GK,74,75,29,17/03/92,173,57,18,France,113003,GK,21,Left,2,1,1,Medium/Medium,,,,,,,23
-246774,https://sofifa.com/player/246774/alba-redondo-ferrer/220002,Alba Redondo,Alba María Redondo Ferrer,"ST, RW",74,79,24,27/08/96,169,63,45,Spain,113012,RW,21,Right,3,3,1,High/Medium,72,77,61,72,17,57,70
-253417,https://sofifa.com/player/253417/lynn-wilms/220002,L. Wilms,Lynn Anke Hannie Wilms,RB,74,83,20,03/10/00,173,60,34,Netherlands,113011,SUB,15,Right,3,2,1,High/High,73,52,69,68,71,72,74
-253437,https://sofifa.com/player/253437/marta-cardona-de-miguel/220002,Marta Cardona,Marta Cardona de Miguel,"RM, RW",74,75,26,26/05/95,161,54,45,Spain,113012,SUB,9,Right,3,4,1,Medium/Medium,68,67,72,73,26,52,70
-257530,https://sofifa.com/player/257530/sophia-kleinherne/220002,S. Kleinherne,Sophia Kleinherne,CB,74,84,21,12/04/00,169,54,21,Germany,113004,SUB,2,Right,4,2,1,Medium/Medium,69,33,46,65,75,72,63
-258789,https://sofifa.com/player/258789/maria-isabel-rodriguez-rivero/220002,Misa,María Isabel Rodríguez Rivero,GK,74,81,21,22/07/99,173,66,45,Spain,113012,SUB,1,Left,3,1,1,Medium/Medium,,,,,,,29
-261093,https://sofifa.com/player/261093/alicia-cervantes/220002,A. Cervantes,Alicia Cervantes Herrera,ST,74,74,27,24/01/94,165,60,83,Mexico,113010,LS,23,Left,2,2,1,Medium/Medium,65,79,53,69,32,65,66
-261784,https://sofifa.com/player/261784/kassandra-missipo/220002,K. Missipo,Kassandra Missipo,"CM, CDM",74,79,23,03/02/98,159,57,7,Belgium,113394,SUB,23,Right,3,3,1,Medium/Medium,75,61,67,76,70,73,76
-261852,https://sofifa.com/player/261852/jessica-nogueira-silva/220002,Jéssica Silva,Jéssica Nogueira Silva,ST,74,77,26,11/12/94,170,54,38,Portugal,115682,RS,10,Left,3,4,1,Medium/Medium,74,73,54,72,19,54,73
-227369,https://sofifa.com/player/227369/synne-jensen/220002,S. Jensen,Synne Sofie Kinden Jensen,ST,73,77,25,15/02/96,173,62,36,Norway,113007,SUB,19,Right,3,3,2,Medium/Medium,79,74,50,73,24,63,76
-228724,https://sofifa.com/player/228724/maria-sanchez/220002,M. Sánchez,María Guadalupe Sánchez Morales,LM,73,76,25,20/02/96,167,56,83,Mexico,113010,LM,11,Left,3,3,1,High/Medium,83,66,71,73,42,54,82
-233349,https://sofifa.com/player/233349/rosie-white/220002,R. White,Rosemary Eleanor Florence White,"ST, RM, CAM",73,73,28,06/06/93,165,63,198,New Zealand,113258,RS,13,Right,3,3,1,High/Medium,76,71,72,74,29,61,77
-233759,https://sofifa.com/player/233759/danique-kerkdijk/220002,D. Kerkdijk,Danique Kerkdijk,CB,73,75,25,01/05/96,170,64,34,Netherlands,113011,SUB,18,Right,3,2,1,Medium/Medium,69,43,55,57,75,75,60
-238280,https://sofifa.com/player/238280/victoria-esson/220002,V. Esson,Victoria Lucy Esson,GK,73,73,30,06/03/91,169,65,198,New Zealand,113258,SUB,21,Right,3,1,1,Medium/Medium,,,,,,,37
-239759,https://sofifa.com/player/239759/kristine-leine/220002,K. Leine,Kristine Bjørdal Leine,"LB, CB",73,78,24,06/08/96,171,57,36,Norway,113007,SUB,30,Right,2,2,1,Medium/Medium,71,30,58,56,70,65,73
-241526,https://sofifa.com/player/241526/olivia-chance/220002,O. Chance,Olivia Juliet Bridget Chance,"RM, LM",73,73,27,05/10/93,157,53,198,New Zealand,113258,LM,22,Right,4,3,1,High/High,86,66,67,70,40,59,85
-245187,https://sofifa.com/player/245187/rafaela-isabel-lobato-selva/220002,Rafaelly Paraná,Rafaela Isabel Lobato Selva,LB,73,73,25,29/02/96,168,65,54,Brazil,112999,SUB,23,Left,3,3,1,Medium/Medium,66,51,64,69,71,77,68
-245881,https://sofifa.com/player/245881/lizzie-arnot/220002,L. Arnot,Lizzie Arnot,"ST, LM",73,77,25,01/03/96,169,54,42,Scotland,113984,SUB,21,Right,4,3,1,Medium/Medium,76,75,44,74,22,55,75
-245883,https://sofifa.com/player/245883/chloe-arthur/220002,C. Arthur,Chloe Susan Arthur,"CM, CDM",73,76,26,21/01/95,169,58,42,Scotland,113984,SUB,14,Right,3,3,1,Medium/Medium,65,67,67,70,69,60,62
-245890,https://sofifa.com/player/245890/leanne-crichton/220002,L. Crichton,Leanne Crichton,CM,73,73,33,06/08/87,160,55,42,Scotland,113984,SUB,10,Right,3,3,1,Medium/Medium,61,70,71,71,69,56,60
-246177,https://sofifa.com/player/246177/emelyne-laurent/220002,E. Laurent,Emelyne Ann-Emmanuelle Laurent,"RW, RM",73,85,22,04/11/98,161,50,18,France,113003,SUB,13,Right,2,3,1,High/Low,85,64,68,76,20,38,86
-246967,https://sofifa.com/player/246967/nicola-docherty/220002,N. Docherty,Nicola Docherty,LB,73,73,28,23/08/92,171,60,42,Scotland,113984,SUB,3,Left,3,3,1,Medium/Medium,70,52,58,68,71,65,71
-247437,https://sofifa.com/player/247437/daniela-espinosa/220002,D. Espinosa,Daniela Espinosa Arce,"RM, CAM, ST",73,84,21,13/07/99,168,62,83,Mexico,113010,SUB,7,Right,3,3,1,High/Low,68,72,74,73,34,41,69
-247512,https://sofifa.com/player/247512/jordyn-huitema/220002,J. Huitema,Jordyn Pamela Huitema,"ST, RW, RM",73,84,20,08/05/01,181,56,70,Canada,113000,SUB,7,Right,3,4,3,Medium/Medium,81,74,53,75,24,53,81
-247747,https://sofifa.com/player/247747/wei-yao/220002,Yao Wei,姚伟,"CM, RM",73,79,23,01/09/97,167,60,155,China PR,113001,SUB,21,Right,3,3,1,Medium/Medium,73,70,71,71,55,62,72
-253435,https://sofifa.com/player/253435/laia-aleixandri-lopez/220002,Laia Aleixandri,Laia Aleixandri López,"CB, RB, CDM",73,84,20,25/08/00,170,55,45,Spain,113012,SUB,3,Left,4,2,1,Low/High,68,28,55,48,74,72,55
-256095,https://sofifa.com/player/256095/perle-morroni/220002,P. Morroni,Perle Morroni,LB,73,80,23,15/10/97,157,53,18,France,113003,SUB,23,Left,2,2,1,Medium/Medium,81,34,64,62,69,58,79
-260768,https://sofifa.com/player/260768/jimena-lopez/220002,J. López,Jimena López Fuentes,LB,73,79,22,30/01/99,170,57,83,Mexico,113010,LB,5,Left,2,2,1,High/Medium,73,46,62,62,70,60,73
-261514,https://sofifa.com/player/261514/evelyne-viens/220002,É. Viens,Évelyne Viens,ST,73,77,24,06/02/97,173,64,70,Canada,113000,SUB,9,Right,5,2,1,High/Low,81,77,50,72,19,60,83
-261786,https://sofifa.com/player/261786/justine-vanhaevermaet/220002,J. Vanhaevermaet,Justine Vanhaevermaet,"CDM, CM",73,73,29,29/04/92,185,72,7,Belgium,113394,CM,10,Right,4,3,1,Medium/Medium,64,66,69,67,71,72,58
-261788,https://sofifa.com/player/261788/laura-de-neve/220002,L. De Neve,Laura De Neve,CB,73,76,26,09/10/94,168,56,7,Belgium,113394,LCB,18,Left,3,2,1,Medium/Medium,71,45,66,60,74,71,68
-261791,https://sofifa.com/player/261791/marie-minnaert/220002,M. Minnaert,Marie Minnaert,"CM, CAM",73,79,22,05/05/99,184,73,7,Belgium,113394,LCM,16,Right,3,3,1,High/Medium,63,68,72,68,62,70,60
-261801,https://sofifa.com/player/261801/lenie-onzia/220002,L. Onzia,Lenie Onzia,"CM, CDM, CAM",73,73,32,30/05/89,170,57,7,Belgium,113394,RCM,8,Right,3,3,1,Medium/Medium,60,54,71,71,70,68,56
-261834,https://sofifa.com/player/261834/patricia-isabel-sousa-morais/220002,Patrícia Morais,Patrícia Isabel Sousa Morais,GK,73,73,29,17/06/92,178,63,38,Portugal,115682,GK,12,Right,3,1,1,Medium/Medium,,,,,,,25
-261842,https://sofifa.com/player/261842/carolina-ana-coruche-mendes/220002,Carolina Mendes,Carolina Ana Coruche Mendes,ST,73,73,33,27/11/87,173,59,38,Portugal,115682,SUB,18,Right,3,3,1,Medium/Medium,78,79,55,74,18,58,79
-263011,https://sofifa.com/player/263011/ella-toone/220002,E. Toone,Ella Toone,"RW, RM",73,83,21,02/09/99,163,57,14,England,113002,SUB,20,Right,3,2,1,High/Medium,80,70,69,73,49,64,79
-263966,https://sofifa.com/player/263966/hanna-bennison/220002,H. Bennison,Hanna Bennison,CAM,73,90,18,16/10/02,160,51,46,Sweden,113008,SUB,26,Right,3,2,1,Medium/Medium,75,68,75,72,57,57,76
-226927,https://sofifa.com/player/226927/jiayue-li/220002,Li Jiayue,李佳悦,"CB, RB, LB",72,72,31,08/06/90,170,58,155,China PR,113001,SUB,13,Right,3,2,1,High/Medium,67,43,56,61,73,72,64
-227286,https://sofifa.com/player/227286/elise-thorsnes/220002,E. Thorsnes,Elise Hove Thorsnes,"ST, LB",72,72,32,14/08/88,174,70,36,Norway,113007,SUB,7,Right,3,3,2,High/Medium,69,64,66,74,57,85,68
-227454,https://sofifa.com/player/227454/carolina-jaramillo/220002,C. Jaramillo,Christian Carolina Jaramillo Quintero,"LM, CM",72,72,27,15/03/94,167,59,83,Mexico,113010,SUB,15,Left,3,3,3,Medium/Medium,76,61,74,74,38,61,77
-232618,https://sofifa.com/player/232618/xiaolin-bi/220002,Bi Xiaolin,毕晓琳,GK,72,72,31,18/09/89,176,62,155,China PR,113001,SUB,1,Right,2,1,1,Medium/Medium,,,,,,,26
-233200,https://sofifa.com/player/233200/emily-gielnik/220002,E. Gielnik,Emily Gielnik,"RW, LW, ST",72,72,29,13/05/92,183,68,195,Australia,112998,SUB,15,Right,3,3,1,Medium/Medium,78,68,65,74,26,68,77
-233322,https://sofifa.com/player/233322/synne-skinnes-hansen/220002,S. Hansen,Synne Skinnes Hansen,"RB, LB",72,75,25,12/08/95,171,65,36,Norway,113007,SUB,5,Right,3,3,1,Medium/Medium,64,61,60,67,70,57,63
-233339,https://sofifa.com/player/233339/anna-green/220002,A. Green,Anna Green,"LB, LWB",72,72,30,20/08/90,167,62,198,New Zealand,113258,SUB,3,Left,3,3,1,Medium/Medium,73,64,65,68,71,69,77
-233353,https://sofifa.com/player/233353/hannah-wilkinson/220002,H. Wilkinson,Hannah Lillian Wilkinson,"ST, RM, LM",72,72,29,28/05/92,178,70,198,New Zealand,113258,SUB,17,Right,3,4,1,Medium/Medium,69,73,58,72,23,62,70
-233354,https://sofifa.com/player/233354/cj-bott/220002,C. Bott,Catherine Joan Bott,"LB, RB, RWB",72,75,26,22/04/95,165,60,198,New Zealand,113258,SUB,4,Right,3,3,1,Medium/Medium,62,57,64,70,70,70,64
-237674,https://sofifa.com/player/237674/lindsay-agnew/220002,L. Agnew,Lindsay Elizabeth Agnew,RB,72,74,26,31/03/95,175,63,70,Canada,113000,SUB,22,Right,3,2,1,Medium/High,74,65,63,66,70,72,73
-238096,https://sofifa.com/player/238096/deanne-rose/220002,D. Rose,Deanne Rose,"LM, RM",72,81,22,03/03/99,162,62,70,Canada,113000,SUB,6,Right,3,2,1,High/Medium,91,64,64,71,32,67,90
-239124,https://sofifa.com/player/239124/shannon-woeller/220002,S. Woeller,Shannon Elizabeth Woeller,CB,72,72,30,31/12/90,172,64,70,Canada,113000,SUB,21,Right,3,2,1,Medium/High,65,26,45,49,75,75,61
-241224,https://sofifa.com/player/241224/rebeca-bernal/220002,R. Bernal,Rebeca Bernal Rodriguez,"LB, CDM",72,75,23,31/08/97,170,62,83,Mexico,113010,LDM,6,Left,3,3,1,Medium/High,74,41,62,66,71,63,77
-244058,https://sofifa.com/player/244058/lize-kop/220002,L. Kop,Lize Kop,GK,72,78,23,17/03/98,172,64,34,Netherlands,113011,SUB,16,Right,2,1,1,Medium/Medium,,,,,,,27
-244064,https://sofifa.com/player/244064/victoria-pelova/220002,V. Pelova,Victoria Pelova,"CAM, CM",72,80,22,03/06/99,158,55,34,Netherlands,113011,SUB,12,Right,3,3,1,High/Medium,73,67,67,76,35,55,75
-245184,https://sofifa.com/player/245184/lia-juliana-bardini-reis/220002,Licinha Bardini,Lia Juliana Bardini Reis,GK,72,72,33,29/02/88,175,70,54,Brazil,112999,SUB,22,Right,3,1,1,Medium/Medium,,,,,,,19
-247535,https://sofifa.com/player/247535/amalie-eikeland/220002,A. Eikeland,Amalie Vevle Eikeland,"RM, LM",72,73,25,26/08/95,164,67,36,Norway,113007,SUB,15,Right,3,3,1,High/Medium,75,68,67,72,24,52,71
-248790,https://sofifa.com/player/248790/julia-roddar/220002,J. Roddar,Julia Elisabeth Roddar,"CDM, CM",72,72,29,16/02/92,167,59,46,Sweden,113008,SUB,20,Right,3,3,1,Medium/Medium,63,38,64,55,69,69,64
-261092,https://sofifa.com/player/261092/alison-gonzalez/220002,A. González,Alison Hecnary Gonzalez Esquivel,"ST, RW",72,84,19,31/01/02,169,51,83,Mexico,113010,RS,20,Right,3,3,1,High/Low,73,76,58,74,25,45,70
-261787,https://sofifa.com/player/261787/justien-odeurs/220002,J. Odeurs,Justien Odeurs,GK,72,77,24,30/05/97,174,70,7,Belgium,113394,GK,1,Right,3,1,1,Medium/Medium,,,,,,,26
-261794,https://sofifa.com/player/261794/nicky-evrard/220002,N. Evrard,Nicky Evrard,GK,72,76,26,26/05/95,176,58,7,Belgium,113394,SUB,21,Right,3,1,1,Medium/Medium,,,,,,,16
-261795,https://sofifa.com/player/261795/davinia-vanmechelen/220002,D. Vanmechelen,Davinia Vanmechelen,"LW, LM",72,80,21,30/08/99,161,63,7,Belgium,113394,SUB,14,Left,4,4,1,Medium/High,77,67,69,73,23,48,81
-261798,https://sofifa.com/player/261798/chloe-vande-velde/220002,C. Vande Velde,Chloé Vande Velde,"CM, RM, LM",72,77,24,06/06/97,169,58,7,Belgium,113394,SUB,19,Right,3,3,1,Medium/Medium,73,70,71,73,64,66,71
-261835,https://sofifa.com/player/261835/tatiana-vanessa-ferreira-pinto/220002,Tatiana Pinto,Tatiana Vanessa Ferreira Pinto,CM,72,73,27,28/03/94,167,55,38,Portugal,115682,LCM,11,Right,3,3,1,Medium/Medium,62,51,68,67,65,58,61
-261837,https://sofifa.com/player/261837/diana-micaela-de-sousa-e-silva/220002,Diana Silva,Diana Micaela de Sousa e Silva,"ST, LW",72,75,26,04/06/95,161,54,38,Portugal,115682,SUB,19,Left,3,3,1,Medium/Medium,77,78,64,72,18,60,75
-261838,https://sofifa.com/player/261838/andreia-alexandra-norton/220002,Andreia Norton,Andreia Alexandra Norton,"CM, RM, LM",72,77,24,15/08/96,161,58,38,Portugal,115682,LM,8,Right,3,3,1,Medium/Medium,67,59,69,64,59,64,70
-261841,https://sofifa.com/player/261841/fatima-figueira-pinto/220002,Fátima Pinto,Fátima Figueira Pinto,"CM, LM",72,77,25,16/01/96,169,59,38,Portugal,115682,SUB,13,Left,3,3,1,Medium/Medium,61,48,72,67,59,66,59
-262866,https://sofifa.com/player/262866/kyra-cooney-cross/220002,K. Cooney-Cross,Kyra Cooney-Cross,CAM,72,88,19,15/02/02,165,60,195,Australia,112998,SUB,22,Right,3,2,1,High/Medium,72,71,73,72,39,45,74
-264011,https://sofifa.com/player/264011/alana-cook/220002,A. Cook,Alana Cook,CB,72,76,24,11/04/97,175,68,95,United States,113009,SUB,26,Right,3,2,1,Low/High,77,41,55,68,72,75,78
-226964,https://sofifa.com/player/226964/duan-song/220002,Song Duan,宋端,"CM, CDM",71,74,25,02/08/95,168,54,155,China PR,113001,SUB,15,Right,2,3,1,Medium/High,72,69,62,70,70,63,70
-227486,https://sofifa.com/player/227486/nancy-antonio/220002,N. Antonio,Nancy Guadalupe Antonio Lopez,"CDM, CM",71,75,25,02/04/96,174,60,83,Mexico,113010,RDM,16,Right,3,2,1,Medium/Medium,77,58,61,65,69,74,79
-233348,https://sofifa.com/player/233348/betsy-hassett/220002,B. Hassett,Betsy Doon Hassett,"CAM, LM, RM",71,71,30,04/08/90,157,55,198,New Zealand,113258,RM,12,Left,3,3,1,Medium/Medium,77,69,69,72,38,57,80
-239756,https://sofifa.com/player/239756/tuva-hansen/220002,T. Hansen,Tuva Hansen,CB,71,80,23,04/08/97,165,55,36,Norway,113007,SUB,4,Right,2,2,1,Medium/High,68,28,38,45,76,61,65
-241565,https://sofifa.com/player/241565/katie-rood/220002,K. Rood,Katie Rood,"LW, ST, CAM",71,71,28,02/09/92,164,62,198,New Zealand,113258,SUB,9,Right,4,3,1,High/Low,81,66,67,71,31,52,83
-242025,https://sofifa.com/player/242025/maegan-kelly/220002,M. Kelly,Maegan Kelly,"LM, LW",71,71,29,19/02/92,164,70,70,Canada,113000,SUB,14,Left,3,3,1,Medium/Low,76,62,68,70,38,56,79
-245892,https://sofifa.com/player/245892/jenna-fife/220002,J. Fife,Jenna Josephine Fife,GK,71,76,25,01/12/95,175,70,42,Scotland,113984,SUB,12,Left,2,1,1,Medium/Medium,,,,,,,25
-246235,https://sofifa.com/player/246235/lucy-staniforth/220002,L. Staniforth,Lucy Elizabeth Staniforth,CAM,71,71,28,02/10/92,157,54,14,England,113002,SUB,21,Right,3,3,1,Medium/Medium,75,60,72,72,40,52,78
-250773,https://sofifa.com/player/250773/guiping-luo/220002,Luo Guiping,罗桂平,"RB, CB",71,71,28,20/04/93,168,63,155,China PR,113001,SUB,22,Right,3,3,1,Medium/Medium,63,31,64,60,70,62,62
-253469,https://sofifa.com/player/253469/elisa-de-almeida/220002,É. De Almeida,Élisa De Almeida,"CB, RB",71,79,23,11/01/98,174,61,18,France,113003,SUB,22,Right,2,2,1,Medium/High,61,23,53,57,74,62,64
-254564,https://sofifa.com/player/254564/itzel-gonzalez/220002,I. González,Itzel González Rodríguez,GK,71,71,26,14/08/94,172,65,83,Mexico,113010,SUB,12,Right,3,1,1,Medium/Medium,,,,,,,31
-261833,https://sofifa.com/player/261833/joana-filipa-gaspar-marchao/220002,Joana Marchão,Joana Filipa Gaspar Marchão,LB,71,76,24,24/10/96,165,53,38,Portugal,115682,LB,5,Left,3,3,1,Medium/Medium,74,40,60,60,70,64,73
-261844,https://sofifa.com/player/261844/ana-ines-palma-capeta/220002,Ana Capeta,Ana Inês Palma Capeta,"ST, LW",71,80,23,22/12/97,168,63,38,Portugal,115682,SUB,20,Right,3,4,1,Medium/Medium,70,71,57,68,19,63,72
-261848,https://sofifa.com/player/261848/ines-teixeira-pereira/220002,Inês Pereira,Inês Teixeira Pereira,GK,71,79,22,26/05/99,168,64,38,Portugal,115682,SUB,1,Right,3,1,1,Medium/Medium,,,,,,,34
-264630,https://sofifa.com/player/264630/joseline-montoya/220002,J. Montoya,Joseline Montoya,"RM, RW",71,80,20,03/07/00,158,48,83,Mexico,113010,SUB,17,Right,3,3,1,High/Low,80,63,69,73,32,38,79
-243054,https://sofifa.com/player/243054/jocelyn-orejel/220002,J. Orejel,Jocelyn Marie Orejel Tavares,CB,70,74,24,14/11/96,182,73,83,Mexico,113010,LCB,4,Right,2,2,1,Medium/High,37,27,45,40,69,78,34
-245887,https://sofifa.com/player/245887/shannon-lynn/220002,S. Lynn,Shannon Lynn,GK,70,70,35,22/10/85,175,58,42,Scotland,113984,SUB,23,Right,3,1,1,Medium/Medium,,,,,,,22
-247531,https://sofifa.com/player/247531/cecilie-redisch-kvamme/220002,C. Kvamme,Cecilie Redisch Kvamme,RB,70,73,25,11/09/95,158,56,36,Norway,113007,RB,22,Right,2,2,1,Medium/Medium,67,33,59,64,68,61,68
-258915,https://sofifa.com/player/258915/emma-kullberg/220002,E. Kullberg,Emma Kullberg,CB,70,71,29,25/09/91,170,63,46,Sweden,113008,SUB,3,Right,3,2,1,Medium/Medium,70,35,45,52,73,66,73
-261792,https://sofifa.com/player/261792/shari-van-belle/220002,S. Van Belle,Shari Van Belle,"LB, RB",70,78,21,22/12/99,164,51,7,Belgium,113394,SUB,5,Right,4,3,1,High/Medium,65,25,50,61,69,54,68
-261793,https://sofifa.com/player/261793/amber-tysiak/220002,A. Tysiak,Amber Tysiak,CB,70,78,21,26/01/00,177,70,7,Belgium,113394,SUB,4,Right,3,2,1,Low/Medium,69,25,41,41,71,69,66
-261806,https://sofifa.com/player/261806/charlotte-tison/220002,C. Tison,Charlotte Tison,CB,70,76,23,21/04/98,165,56,7,Belgium,113394,SUB,15,Right,3,2,1,Medium/Medium,74,27,47,57,71,66,74
-261849,https://sofifa.com/player/261849/telma-raquel-velosa-encarnacao/220002,Telma Encarnação,Telma Raquel Velosa Encarnaçao,ST,70,78,19,11/10/01,169,60,38,Portugal,115682,SUB,23,Right,3,3,1,Medium/Medium,71,69,59,65,25,62,70
-261855,https://sofifa.com/player/261855/francisca-ramos-nazareth-sousa/220002,Kika Nazareth,Francisca Ramos Nazareth Sousa,ST,70,82,18,17/11/02,170,52,38,Portugal,115682,LS,16,Right,3,3,1,Medium/Medium,79,69,59,69,17,62,78
-261857,https://sofifa.com/player/261857/ana-rute-campos-costa/220002,Rute Costa,Ana Rute Campos Costa,GK,70,73,27,01/06/94,170,60,38,Portugal,115682,SUB,22,Right,3,1,1,Medium/Medium,,,,,,,33
-227141,https://sofifa.com/player/227141/amy-harrison/220002,A. Harrison,Amy Bianca Harrison,"CM, RM, RB",69,72,25,21/04/96,171,58,195,Australia,112998,SUB,23,Left,4,3,1,Medium/Medium,73,67,64,68,52,61,74
-241225,https://sofifa.com/player/241225/cristina-ferral/220002,C. Ferral,Cristina Del Carmen Ferral Montalván,"CB, CDM",69,69,28,16/02/93,165,57,83,Mexico,113010,SUB,14,Right,3,2,1,High/High,72,66,69,69,70,69,73
-241286,https://sofifa.com/player/241286/briana-campos/220002,B. Campos,Briana Marie Campos Barrientez,"CDM, CM",69,72,27,03/02/94,160,60,83,Mexico,113010,SUB,18,Right,3,2,1,Medium/Medium,71,58,61,68,67,61,74
-247536,https://sofifa.com/player/247536/therese-sessy-asland/220002,T. Åsland,Therese Sessy Åsland,"CM, CAM",69,72,25,26/08/95,160,60,36,Norway,113007,SUB,13,Right,4,2,1,High/Medium,67,67,67,69,59,74,66
-248799,https://sofifa.com/player/248799/mary-fowler/220002,M. Fowler,Mary Fowler,"ST, CAM",69,86,18,14/02/03,172,60,195,Australia,112998,SUB,11,Left,3,3,1,High/Low,74,70,55,75,25,50,75
-254997,https://sofifa.com/player/254997/diana-evangelista/220002,D. Evangelista,Diana Laura Evangelista Chávez,"ST, RW",69,72,26,05/11/94,156,53,83,Mexico,113010,SUB,21,Right,3,4,1,High/High,68,74,61,70,39,52,73
-255013,https://sofifa.com/player/255013/mariana-cadena/220002,M. Cadena,Mariana Cadena Calvillo,CB,69,74,26,13/02/95,168,62,83,Mexico,113010,SUB,13,Right,3,2,1,Medium/High,67,39,48,51,70,69,68
-256094,https://sofifa.com/player/256094/estelle-cascarino/220002,E. Cascarino,Estelle Cascarino,"CB, LB",69,78,24,05/02/97,161,52,18,France,113003,SUB,17,Left,2,2,1,Medium/Medium,64,35,59,64,70,67,67
-261811,https://sofifa.com/player/261811/lola-wajnblum/220002,L. Wajnblum,Lola Wajnblum,ST,69,73,25,22/01/96,161,59,7,Belgium,113394,SUB,3,Right,3,3,1,Medium/Medium,67,72,46,67,22,49,64
-261843,https://sofifa.com/player/261843/andreia-de-jesus-jacinto/220002,Andreia Jacinto,Andreia de Jesus Jacinto,"CM, RM",69,79,19,08/06/02,169,59,38,Portugal,115682,SUB,6,Right,3,3,1,Medium/Medium,69,46,67,67,63,67,68
-261845,https://sofifa.com/player/261845/andreia-martins-faria/220002,Andreia Faria,Andreia Martins Faria,CM,69,79,21,19/04/00,164,55,38,Portugal,115682,SUB,21,Right,3,3,1,Medium/Medium,67,61,66,66,60,57,66
-261854,https://sofifa.com/player/261854/alicia-lima-correia/220002,Alícia Correia,Alícia Lima Correia,LB,69,81,18,29/04/03,159,53,38,Portugal,115682,SUB,3,Left,3,3,1,Medium/Medium,72,41,53,61,68,60,75
-262826,https://sofifa.com/player/262826/karina-rodriguez/220002,K. Rodríguez,Karina Rodríguez,CB,69,77,22,02/03/99,166,59,83,Mexico,113010,RCB,3,Left,3,2,1,Medium/High,72,38,43,48,71,71,71
-264012,https://sofifa.com/player/264012/sophia-smith/220002,S. Smith,Sophia Smith,RW,69,78,20,10/08/00,165,62,95,United States,113009,SUB,27,Right,3,3,1,High/Medium,81,68,64,71,41,53,80
-264626,https://sofifa.com/player/264626/anika-rodriguez/220002,A. Rodríguez,Anika Rodríguez,"RW, RB",69,73,24,31/12/96,157,57,83,Mexico,113010,SUB,8,Right,3,3,1,High/Medium,76,66,65,71,60,53,78
-233361,https://sofifa.com/player/233361/aimee-phillips/220002,A. Phillips,Aimee Phillips,"ST, CF",68,68,30,06/05/91,158,55,198,New Zealand,113258,SUB,11,Right,3,3,1,Medium/Medium,68,69,56,67,19,53,65
-238279,https://sofifa.com/player/238279/paige-satchell/220002,P. Satchell,Paige Therese Satchell,"LW, LM",68,75,23,13/04/98,163,50,198,New Zealand,113258,LS,19,Left,3,3,1,High/Medium,90,56,63,67,29,49,88
-242027,https://sofifa.com/player/242027/jenna-hellstrom/220002,J. Hellstrom,Jenna Hellstrom,"RM, LM",68,68,26,02/04/95,168,64,70,Canada,113000,SUB,25,Right,3,3,1,Low/Medium,79,57,58,72,45,58,80
-250977,https://sofifa.com/player/250977/karly-roestbakken/220002,K. Roestbakken,Karly Roestbakken,"LB, RB",68,84,20,17/01/01,165,61,195,Australia,112998,SUB,2,Right,4,2,1,High/High,74,31,50,67,66,59,76
-256117,https://sofifa.com/player/256117/claudia-bunge/220002,C. Bunge,Claudia Mary Bunge,CB,68,78,21,21/09/99,173,63,198,New Zealand,113258,SUB,16,Right,2,2,1,Medium/Medium,72,33,47,57,70,70,70
-258940,https://sofifa.com/player/258940/guro-pettersen/220002,G. Pettersen,Guro Pettersen,GK,68,68,29,22/08/91,175,67,36,Norway,113007,SUB,12,Right,2,1,1,Medium/Medium,,,,,,,37
-261113,https://sofifa.com/player/261113/melany-villeda/220002,M. Villeda,Melany Aylin Villeda Medina,GK,68,78,19,25/10/01,165,55,83,Mexico,113010,SUB,22,Right,3,1,1,Medium/Medium,,,,,,,31
-261802,https://sofifa.com/player/261802/isabelle-iliano/220002,I. Iliano,Isabelle Iliano,LB,68,73,24,02/03/97,170,58,7,Belgium,113394,SUB,17,Left,3,3,1,Medium/Medium,66,24,46,54,67,53,69
-261804,https://sofifa.com/player/261804/diede-lemey/220002,D. Lemey,Diede Lemey,GK,68,72,24,07/10/96,170,58,7,Belgium,113394,SUB,12,Right,3,1,1,Medium/Medium,,,,,,,23
-261807,https://sofifa.com/player/261807/maud-coutereels/220002,M. Coutereels,Maud Coutereels,"CB, CDM",68,68,35,21/05/86,170,58,7,Belgium,113394,SUB,29,Right,3,2,1,High/Medium,55,27,59,55,72,59,56
-261858,https://sofifa.com/player/261858/catarina-isabel-silva-amado/220002,Catarina Amado,Catarina Isabel Silva Amado,"RB, RM, RW",68,78,21,21/07/99,165,55,38,Portugal,115682,SUB,2,Right,3,3,1,High/Medium,72,58,61,66,63,54,73
-243875,https://sofifa.com/player/243875/sarah-morton/220002,S. Morton,Sarah Morton,"LB, CB, LWB",67,74,22,28/08/98,166,58,198,New Zealand,113258,SUB,15,Right,3,2,1,Medium/Medium,65,37,57,58,70,62,69
-244890,https://sofifa.com/player/244890/aurora-mikalsen/220002,A. Mikalsen,Aurora Watten Mikalsen,GK,67,72,25,21/03/96,175,65,36,Norway,113007,SUB,28,Left,1,1,1,Medium/Medium,,,,,,,31
-254489,https://sofifa.com/player/254489/nicole-stratford/220002,N. Stratford,Nicole Ellen Stratford,CB,67,67,32,01/02/89,177,68,198,New Zealand,113258,SUB,6,Right,2,2,1,Low/Medium,57,25,44,47,67,72,58
-264233,https://sofifa.com/player/264233/julie-blakstad/220002,J. Blakstad,Julie Blakstad,"LM, LB",67,84,19,27/08/01,175,60,36,Norway,113007,LB,23,Left,3,3,1,High/High,71,58,63,69,57,57,73
-264627,https://sofifa.com/player/264627/myra-delgadillo/220002,M. Delgadillo,Myra Delgadillo,ST,67,70,25,08/12/95,175,60,83,Mexico,113010,SUB,9,Right,3,2,1,Medium/Medium,70,69,62,70,29,51,72
-243421,https://sofifa.com/player/243421/steph-skilton/220002,S. Skilton,Stephanie Skilton,"RW, RWB, ST",66,66,26,27/10/94,175,66,198,New Zealand,113258,SUB,18,Right,2,3,1,High/Low,71,65,56,67,64,59,74
-248751,https://sofifa.com/player/248751/teagan-micah/220002,T. Micah,Teagan Jade Micah,GK,66,75,23,20/10/97,176,78,195,Australia,112998,SUB,12,Right,2,1,1,Medium/Medium,,,,,,,30
-256208,https://sofifa.com/player/256208/diana-garcia/220002,D. García,Diana Laura García Castillo,RM,66,76,21,11/11/99,167,57,83,Mexico,113010,SUB,19,Right,3,2,1,Medium/Medium,70,58,64,69,43,39,72
-256251,https://sofifa.com/player/256251/marisa-van-der-meer/220002,M. van der Meer,Marisa Isabel Van Der Meer,"LB, LWB",66,78,19,27/03/02,167,60,198,New Zealand,113258,SUB,20,Left,2,2,1,High/Medium,71,38,61,62,62,56,68
-261799,https://sofifa.com/player/261799/hannah-eurlings/220002,H. Eurlings,Hannah Eurlings,"CF, ST",66,81,18,01/01/03,170,58,7,Belgium,113394,SUB,7,Right,3,4,1,Medium/Medium,71,63,65,72,31,49,76
-261856,https://sofifa.com/player/261856/ana-ines-costa-mendes-dias/220002,Ana Dias,Ana Inês Costa Mendes Dias,ST,66,75,23,02/10/97,171,60,38,Portugal,115682,SUB,17,Right,3,3,1,Medium/Medium,75,67,51,63,16,60,74
-263000,https://sofifa.com/player/263000/gabi-rennie/220002,G. Rennie,Gabi Rennie,"ST, RW",66,79,19,07/07/01,168,64,198,New Zealand,113258,SUB,23,Right,2,2,1,Medium/Medium,72,69,55,67,35,51,74
-262867,https://sofifa.com/player/262867/courtney-nevin/220002,C. Nevin,Courtney Nevin,LB,62,77,19,12/02/02,168,65,195,Australia,112998,SUB,21,Left,3,2,1,High/Medium,71,25,52,57,55,53,72
-262868,https://sofifa.com/player/262868/charlotte-grant/220002,C. Grant,Charlotte Grant,"RB, CB",60,75,19,20/09/01,172,70,195,Australia,112998,SUB,14,Right,2,2,1,Medium/Medium,68,29,49,58,56,59,70
+short_name,sofifa_id,long_name,player_positions,overall,potential,age,dob,height_cm,weight_kg,nationality_id,nationality_name,nation_team_id,nation_position,nation_jersey_number,preferred_foot,weak_foot,skill_moves,international_reputation,pace,shooting,passing,dribbling,defending,physic,movement_acceleration
+L. Bronze,227246,Lucia Roberta Tough Bronze,"RB, CM",92,92,29,28/10/91,171,67,14,England,113002,RB,2,Right,3,3,5,86,61,70,81,89,84,87
+W. Renard,227316,Wéndèleine Thérèse Renard,CB,92,92,30,20/07/90,187,70,18,France,113003,LCB,3,Right,2,2,5,68,70,62,73,91,88,69
+V. Miedema,233746,Vivianne Miedema,ST,92,93,24,15/07/96,178,65,34,Netherlands,113011,ST,9,Right,4,4,5,81,93,75,88,32,79,80
+S. Kerr,227125,Samantha May Kerr,"ST, LW",91,91,27,10/09/93,167,55,195,Australia,112998,ST,20,Right,4,4,5,87,90,72,91,39,80,89
+A. Morgan,226301,Alexandra Morgan Carrasco,ST,90,90,31,02/07/89,170,62,95,United States,113009,ST,13,Left,4,4,5,86,88,74,86,43,71,85
+D. Marozsán,226308,Dzsenifer Marozsán,"CAM, LM, CM",90,90,29,18/04/92,171,67,21,Germany,113004,LDM,10,Right,4,5,5,82,86,90,89,55,76,84
+M. Rapinoe,226328,Megan Anna Rapinoe,"LW, LM",90,90,35,05/07/85,170,60,95,United States,113009,LW,15,Right,4,4,5,71,87,90,89,49,66,72
+T. Heath,226330,Tobin Powell Heath,"RW, CAM, LW",90,90,33,29/05/88,168,59,95,United States,113009,RW,17,Right,5,5,4,77,79,89,93,36,64,78
+C. Hansen,227102,Caroline Graham Hansen,"RM, CAM, ST",90,91,26,18/02/95,178,66,36,Norway,113007,CAM,10,Right,4,4,4,87,83,86,89,45,75,86
+A. Henry,227318,Amandine Chantal Henry,"CDM, CM",90,90,31,28/09/89,171,64,18,France,113003,RDM,6,Right,3,4,5,74,78,79,80,88,88,75
+J. Ertz,226333,Julie Beth Ertz,"CDM, CB",89,89,29,06/04/92,170,59,95,United States,113009,CDM,8,Right,3,3,4,77,66,80,75,87,85,76
+C. Sinclair,226359,Christine Margaret Sinclair,"ST, CAM",89,89,38,12/06/83,175,67,70,Canada,113000,ST,12,Right,4,4,4,72,89,85,85,37,80,71
+E. Le Sommer,227331,Eugénie Anne Claudine Le Sommer,"ST, LW, CAM",89,89,32,18/05/89,161,58,18,France,113003,ST,9,Right,5,4,5,81,91,74,84,41,70,78
+L. Martens,233748,Lieke Martens,"LW, CAM",89,89,28,16/12/92,170,66,34,Netherlands,113011,LW,11,Right,4,5,5,81,87,86,89,41,72,80
+B. Sauerbrunn,226177,Rebecca Elizabeth Sauerbrunn,"CB, RB",88,88,36,06/06/85,170,64,95,United States,113009,LCB,4,Right,2,2,4,73,37,62,63,88,85,73
+A. Popp,226302,Alexandra Popp,"ST, LM",88,88,30,06/04/91,174,65,21,Germany,113004,SUB,11,Right,5,4,4,82,87,77,81,48,85,83
+F. Kirby,227255,Francesca Kirby,"CAM, ST, CM",88,88,28,29/06/93,157,53,14,England,113002,CAM,10,Right,3,4,4,87,88,76,88,50,62,90
+Jenni Hermoso,227192,Jennifer Hermoso Fuentes,"ST, CAM, CF",87,87,31,09/05/90,174,59,45,Spain,113012,ST,10,Left,4,4,4,78,90,80,85,47,71,77
+S. Däbritz,227327,Sara Ilonka Däbritz,"CM, LM, CAM",87,89,26,15/02/95,171,59,21,Germany,113004,LM,23,Left,5,4,3,82,79,83,87,69,72,86
+A. Majri,227350,Amel Majri,"LM, LB",87,87,28,25/01/93,164,54,18,France,113003,LAM,10,Left,3,4,3,83,69,85,87,85,80,86
+L. Horan,231432,Lindsey Michelle Horan,"CAM, CM",87,88,27,26/05/94,175,67,95,United States,113009,LCM,9,Right,3,4,3,79,86,85,83,59,76,80
+K. Little,245872,Kim Alison Little,"CAM, CM",87,87,31,29/06/90,162,58,42,Scotland,113984,CAM,8,Right,4,4,3,77,84,86,86,43,69,80
+C. Press,226327,Christen Annemarie Press,"ST, LW, RW",86,86,32,29/12/88,170,59,95,United States,113009,SUB,23,Right,3,4,4,85,86,76,83,45,73,86
+A. Naeher,226335,Alyssa Michele Naeher,GK,86,86,33,20/04/88,175,60,95,United States,113009,GK,1,Right,2,1,3,,,,,,,43
+C. Dunn,226336,Crystal Alyssia Dunn Soubrier,"LB, RB, LM",86,86,28,03/07/92,157,55,95,United States,113009,LB,19,Right,5,4,3,83,76,80,81,83,63,85
+S. Mewis,226338,Samantha June Mewis,"CM, CDM",86,86,28,09/10/92,180,63,95,United States,113009,RCM,3,Right,4,4,3,68,76,82,80,77,84,66
+N. Fischer,226968,Åsa Nilla Maria Fischer,CB,86,86,36,02/08/84,176,68,46,Sweden,113008,SUB,5,Right,2,2,4,48,44,66,58,86,82,46
+C. Seger,226975,Sara Caroline Seger,"CM, CDM",86,86,36,19/03/85,176,62,46,Sweden,113008,LCM,17,Right,3,4,4,49,80,82,79,80,77,47
+S. Bouhaddi,227313,Sarah Bouhaddi,GK,86,86,34,17/10/86,175,69,18,France,113003,SUB,16,Right,1,1,3,,,,,,,54
+K. O'Hara,226318,Kelley Maureen O'Hara,"RB, LB",85,85,32,04/08/88,165,58,95,United States,113009,RB,5,Right,2,3,4,81,65,69,79,83,71,80
+S. Houghton,226358,Stephanie Jayne Houghton Darby,CB,85,85,33,23/04/88,174,71,14,England,113002,RCB,5,Right,3,2,4,58,63,63,66,85,83,57
+M. Eriksson,226998,Magdalena Lilly Eriksson,"LB, CB",85,85,27,08/09/93,172,66,46,Sweden,113008,LB,6,Left,3,2,4,76,33,76,71,84,83,76
+Alexia Putellas,227203,Alexia Putellas Segura,"LM, RM, CM",85,85,27,04/02/94,175,66,45,Spain,113012,LCM,11,Left,4,3,4,77,83,82,84,69,70,78
+R. Lavelle,232075,Rosemary Kathleen Lavelle,"CAM, CM, LB",85,88,26,14/05/95,163,52,95,United States,113009,SUB,16,Left,3,4,3,80,78,80,85,46,60,81
+J. Groenen,233852,Jackie Noëlle Groenen,"CM, CAM",85,86,26,17/12/94,164,60,34,Netherlands,113011,RCM,14,Right,4,4,3,82,68,85,87,68,76,85
+I. Engen,242896,Ingrid Syrstad Engen,"CM, CDM",85,90,23,29/04/98,177,65,36,Norway,113007,LCM,14,Right,3,3,3,76,73,82,83,82,83,78
+A. Harris,226331,Ashlyn Michelle Harris,GK,84,84,35,19/10/85,175,60,95,United States,113009,SUB,18,Right,2,1,3,,,,,,,44
+K. Asllani,226987,Kosovare Asllani,"CAM, CM, ST",84,84,31,29/07/89,166,57,46,Sweden,113008,CAM,9,Right,4,4,4,77,79,79,87,46,55,80
+L. Benkarth,227330,Laura Anna Benkarth,GK,84,84,28,14/10/92,173,68,21,Germany,113004,GK,12,Right,3,1,2,,,,,,,39
+S. Huth,227337,Svenja Anette Huth,"RM, ST, LM",84,84,30,25/01/91,163,54,21,Germany,113004,RM,9,Right,5,4,3,86,73,81,86,57,58,88
+K. Buchanan,227383,Kadeisha Buchanan,CB,84,87,25,05/11/95,170,65,70,Canada,113000,RCB,3,Right,3,2,3,80,37,51,69,84,86,79
+D. Cascarino,232202,Delphine Cascarino,"RM, RW",84,89,24,05/02/97,165,57,18,France,113003,RAM,20,Right,2,4,2,94,72,76,86,27,56,95
+A. Erceg,233341,Abby May Erceg,CB,84,84,31,20/11/89,177,68,198,New Zealand,113258,LCB,8,Right,3,2,3,61,51,62,67,86,81,58
+S. Blackstenius,233364,Emma Stina Blackstenius,ST,84,89,25,05/02/96,174,72,46,Sweden,113008,ST,11,Right,4,4,3,88,84,65,83,32,72,86
+D. van de Donk,233751,Daniëlle van de Donk,"CAM, CM",84,84,29,05/08/91,160,54,34,Netherlands,113011,LCM,10,Right,3,4,3,84,76,79,85,56,73,85
+L. Magull,233837,Lina Maria Magull,"CM, CAM",84,85,26,15/08/94,166,54,21,Germany,113004,CAM,28,Right,3,4,3,85,78,84,86,57,68,87
+G. Gwinn,247788,Giulia Ronja Gwinn,"RM, CAM, RB",84,90,21,02/07/99,170,56,21,Germany,113004,SUB,51,Right,3,4,2,86,71,80,84,64,65,87
+L. Oberdorf,248717,Lena Sophie Oberdorf,"CB, CDM",84,92,19,19/12/01,174,55,21,Germany,113004,LCB,6,Right,3,3,1,70,70,75,77,84,82,72
+S. Jakobsson,226973,Eva Sofia Jakobsson,"RW, ST, LW",83,83,31,23/04/90,174,62,46,Sweden,113008,RW,10,Right,3,3,3,88,80,75,80,35,69,85
+H. Lindahl,226978,Rut Hedvig Lindahl,GK,83,83,38,29/04/83,179,74,46,Sweden,113008,GK,1,Right,3,1,3,,,,,,,47
+F. Rolfö,227013,Fridolina Rolfö,"LW, RW",83,83,27,24/11/93,178,65,46,Sweden,113008,LW,18,Left,3,4,3,80,83,78,84,44,77,80
+Irene Paredes,227190,Irene Paredes Hernández,CB,83,83,29,04/07/91,177,62,45,Spain,113012,RCB,4,Right,3,2,4,70,52,62,65,86,76,68
+J. Nobbs,227257,Jordan Nobbs,"CM, RM",83,83,28,08/12/92,160,54,14,England,113002,RDM,8,Right,3,4,3,77,77,81,81,69,69,80
+M. Mjelde,227282,Maren Nævdal Mjelde,"CB, RB",83,83,31,06/11/89,166,63,36,Norway,113007,RCB,6,Right,3,3,3,77,76,82,79,85,72,76
+G. Mbock,227346,Griedge Yinda Colette Mbock Bathy Nka,CB,83,86,26,26/02/95,172,64,18,France,113003,RCB,19,Right,3,2,3,76,45,65,68,83,83,76
+K. Diani,227361,Kadidiatou Diani,"RM, RW, ST",83,84,26,01/04/95,168,64,18,France,113003,SUB,11,Right,3,4,3,85,78,78,83,50,58,84
+S. Schmidt,227405,Sophie Diana Schmidt,"CM, CDM, CB",83,83,33,28/06/88,172,71,70,Canada,113000,SUB,13,Right,5,4,3,70,77,81,81,73,70,71
+K. Robles,227466,Vaitiare Kenti Robles Salas,RB,83,83,30,15/02/91,161,59,83,Mexico,113010,RB,2,Right,2,3,3,80,61,72,74,82,81,83
+M. Pugh,232073,Mallory Diane Pugh,"RW, LW, CM",83,90,23,29/04/98,163,54,95,United States,113009,SUB,2,Right,3,4,3,88,79,75,84,33,56,87
+A. Franch,232077,Adrianna Nichole Franch,GK,83,83,30,12/11/90,175,68,95,United States,113009,SUB,21,Right,2,1,3,,,,,,,43
+S. Spitse,233747,Sherida Spitse,"CDM, CM",83,83,31,29/05/90,167,61,34,Netherlands,113011,CDM,8,Right,4,3,3,66,74,86,75,76,75,65
+N. Parris,235659,Nikita Josephine Parris,"RM, ST, RW",83,83,27,10/03/94,164,59,14,England,113002,RM,7,Right,4,4,3,90,78,76,85,58,62,91
+Miri Couto,245205,Débora Mariana Ruiz Couto,ST,83,83,29,29/02/92,168,65,54,Brazil,112999,RS,9,Left,5,4,1,87,83,79,89,28,70,88
+Emanuelly Barni,245206,Emanuelly Jade Gonçalves Barni,LM,83,83,29,29/02/92,163,58,54,Brazil,112999,LM,10,Left,4,4,1,89,76,80,83,27,64,86
+M. Katoto,246272,Marie-Antoinette Oda Katoto,ST,83,91,22,01/11/98,176,66,18,France,113003,SUB,12,Right,4,4,3,85,84,70,82,20,61,86
+A. Krieger,226325,Alexandra Blaire Krieger,"RB, CB",82,82,36,28/07/84,168,60,95,United States,113009,SUB,11,Right,3,4,3,76,62,77,74,79,79,75
+M. Leupolz,226354,Melanie Leupolz,"CM, CDM",82,82,27,14/04/94,173,52,21,Germany,113004,RDM,18,Right,3,4,3,83,76,83,84,73,71,85
+K. Hendrich,226375,Kathrin-Julia Hendrich,"RB, CB",82,82,29,06/04/92,174,55,21,Germany,113004,SUB,5,Right,3,3,2,81,35,66,71,82,75,77
+Wu Haiyan,226922,吴海燕,"CB, RB",82,82,28,26/02/93,166,58,155,China PR,113001,RCB,5,Right,4,2,2,75,53,71,71,81,78,76
+C. Foord,227110,Caitlin Jade Foord,"RW, LW, ST",82,83,26,11/11/94,165,61,195,Australia,112998,LW,9,Right,3,4,3,89,77,74,82,68,66,92
+S. Catley,227119,Stephanie-Elise Catley,"LB, CB",82,83,27,26/01/94,171,60,195,Australia,112998,LM,7,Left,2,3,3,76,67,71,72,78,76,79
+E. White,227270,Ellen Toni White Convery,"ST, LW",82,82,32,09/05/89,171,62,14,England,113002,ST,9,Right,3,3,2,63,84,64,75,43,82,60
+K. Minde,227281,Kristine Minde,"LB, LM",82,82,28,08/08/92,169,64,36,Norway,113007,SUB,17,Left,4,3,2,87,78,80,79,77,71,89
+L. Maier,227300,Leonie Rebekka Maier,"RB, LB",82,82,28,29/09/92,163,62,21,Germany,113004,RB,4,Right,4,4,2,80,60,73,79,81,69,84
+G. Reiten,227323,Guro Reiten,"LM, CAM, ST",82,82,26,26/07/94,167,60,36,Norway,113007,LM,16,Left,4,4,3,79,79,81,81,44,57,80
+A. Lawrence,227392,Ashley Elizabeth Marie Lawrence,"RB, CM, LB",82,85,26,11/06/95,164,58,70,Canada,113000,RB,10,Right,3,3,3,83,70,83,80,78,76,86
+D. Scott,227410,Desiree Rose Marie Scott,"CDM, CM",82,82,33,31/07/87,154,65,70,Canada,113000,LDM,11,Right,3,3,3,67,51,72,72,79,84,68
+S. van Veenendaal,233749,Sari van Veenendaal,GK,82,82,31,03/04/90,180,72,34,Netherlands,113011,GK,1,Right,2,1,3,,,,,,,30
+A. Dahlkemper,236641,Abigail Lynn Dahlkemper,CB,82,83,28,13/05/93,170,54,95,United States,113009,RCB,7,Right,3,2,3,71,49,75,68,84,81,68
+M. Bright,238257,Millie Bright,CB,82,84,27,21/08/93,178,76,14,England,113002,SUB,15,Right,4,2,2,57,46,63,63,83,86,51
+L. Dallmann,239345,Linda Dallmann,"CAM, LM, CF",82,83,26,02/09/94,158,51,21,Germany,113004,SUB,16,Right,4,4,2,82,76,78,86,47,59,84
+E. Carpenter,240030,Ellie Madison Carpenter,RB,82,91,21,28/04/00,165,60,195,Australia,112998,RCB,3,Right,3,3,2,85,46,73,76,77,79,86
+J. Roord,240714,Jill Jamie Roord,"LW, CAM, RW",82,86,24,22/04/97,175,63,34,Netherlands,113011,RW,19,Right,4,4,3,69,80,81,83,53,67,72
+Jully Mutto,245188,Júlia Maria Mutto Sampaio,CB,82,82,33,29/02/88,170,68,54,Brazil,112999,LCB,6,Right,3,2,1,72,39,58,64,84,80,71
+Palomy Bastos,245193,Paloma Isa Sá Bastos,ST,82,82,33,29/02/88,172,67,54,Brazil,112999,LS,7,Left,3,4,1,77,83,67,82,23,73,79
+M. Frohms,247789,Merle Frohms,GK,82,85,26,28/01/95,175,60,21,Germany,113004,SUB,1,Right,3,1,2,,,,,,,40
+K. Bühl,248822,Klara Bühl,"ST, RM",82,89,20,07/12/00,172,65,21,Germany,113004,SUB,19,Right,4,4,1,82,83,75,84,24,62,81
+A. Berger,258310,Ann-Katrin Berger,GK,82,83,30,09/10/90,180,63,21,Germany,113004,SUB,21,Right,3,1,2,,,,,,,37
+E. Haavi,227101,Emilie Bosshard Haavi,"LM, RM",81,81,29,16/06/92,164,59,36,Norway,113007,SUB,20,Right,3,3,2,93,62,80,82,66,65,91
+L. Williams,227118,Lydia Grace Yilkari Williams,GK,81,81,33,13/05/88,175,63,195,Australia,112998,GK,1,Right,2,1,3,,,,,,,47
+Sandra Paños,227776,Sandra Paños García-Villamil,GK,81,83,28,04/11/92,169,65,45,Spain,113012,GK,13,Right,3,1,2,,,,,,,44
+Mapi León,236479,María Pilar León Cebrián,"CB, LB",81,86,26,13/06/95,169,61,45,Spain,113012,LCB,16,Left,3,2,3,72,39,70,65,83,73,73
+H. Glas,239791,Hanna Erica Maria Glas,"RB, RWB, CB",81,81,28,16/04/93,172,64,46,Sweden,113008,RB,4,Right,3,2,2,73,53,68,69,80,75,72
+L. Schüller,244302,Lea Schüller,ST,81,87,23,12/11/97,173,62,21,Germany,113004,ST,7,Right,3,3,2,87,81,67,78,32,67,86
+Letinha Lia,245177,Letícia Lia Medeiros Resende,LB,81,81,37,29/02/84,170,66,54,Brazil,112999,LB,3,Left,3,4,1,81,52,70,80,77,74,84
+Isinha Macapá,245194,Íris Isabella Orsi da Silva,RM,81,81,33,29/02/88,164,57,54,Brazil,112999,RM,11,Left,5,4,1,89,55,79,81,29,58,90
+Becky Saudera,245199,Rebeca Lia Saudera Peixoto,CDM,81,81,29,29/02/92,170,65,54,Brazil,112999,LCM,5,Right,2,3,1,66,66,72,69,78,80,64
+S. Lohmann,247791,Sydney Lohmann,"CAM, CM",81,89,21,19/06/00,174,64,21,Germany,113004,SUB,8,Right,3,3,1,70,79,77,80,75,76,68
+M. Hegering,248715,Marina Hegering,CB,81,81,31,17/04/90,170,59,21,Germany,113004,RCB,3,Right,3,2,2,71,35,52,67,83,79,67
+T. Wullaert,261781,Tessa Wullaert,"ST, LW, CAM",81,81,28,19/03/93,168,60,7,Belgium,113394,LW,9,Right,4,4,3,84,81,79,81,26,67,82
+Wang Shuang,226360,王霜,"ST, CAM",80,83,26,23/01/95,165,59,155,China PR,113001,SUB,7,Left,4,3,3,86,79,74,81,43,69,88
+Tang Jiali,226960,唐佳丽,"ST, RM, LM",80,82,26,16/03/95,166,52,155,China PR,113001,RS,18,Right,3,3,1,82,79,73,78,57,73,81
+E. Kellond-Knight,227112,Elise Kellond-Knight,"CDM, LB, CM",80,80,30,10/08/90,165,60,195,Australia,112998,SUB,8,Left,4,3,3,71,51,77,69,82,79,70
+K. Bardsley,227241,Karen Louise Bardsley,GK,80,80,36,14/10/84,182,72,14,England,113002,SUB,13,Right,3,1,3,,,,,,,41
+A. Greenwood,227254,Alex Greenwood,LB,80,80,27,07/09/93,168,62,14,England,113002,LB,3,Left,3,2,2,69,43,65,67,80,76,68
+J. Scott,227262,Jill Louise Scott,"CM, CDM",80,80,34,02/02/87,182,68,14,England,113002,SUB,16,Right,3,4,3,59,73,71,75,78,87,57
+C. Telford,227269,Carly Mitchell Telford,GK,80,80,33,07/07/87,174,64,14,England,113002,SUB,23,Right,3,1,1,,,,,,,50
+J. Beckie,227381,Janine Elizabeth Beckie,"LM, RM",80,80,26,20/08/94,173,63,70,Canada,113000,LM,16,Right,3,3,2,90,73,74,78,22,62,91
+S. Labbé,227391,Stephanie Lynn Marie Labbé,GK,80,80,34,10/10/86,178,64,70,Canada,113000,GK,1,Right,2,1,2,,,,,,,44
+M. Torrent,231347,Marion Torrent,RB,80,80,29,17/04/92,164,53,18,France,113003,RB,4,Right,3,3,2,68,53,69,72,79,68,70
+E. Sonnett,232074,Emily Ann Sonnett,"RB, CB, CDM",80,81,27,25/11/93,170,68,95,United States,113009,SUB,14,Right,2,3,1,76,59,75,72,78,78,77
+A. Riley,233343,Alexandra Lowe Riley,"LB, LM, LWB",80,80,33,30/10/87,164,54,198,New Zealand,113258,LB,7,Left,3,4,3,79,75,79,79,76,74,78
+S. van der Gragt,233755,Stefanie van der Gragt,CB,80,80,28,16/08/92,178,70,34,Netherlands,113011,LCB,3,Left,2,2,2,62,53,66,57,81,84,54
+F. Rauch,233838,Felicitas Rauch,"LB, LM",80,85,25,30/04/96,167,61,21,Germany,113004,LB,17,Left,3,3,1,83,51,65,74,78,71,84
+R. Daly,235657,Rachel Ann Daly,"RM, RB",80,80,29,06/12/91,168,67,14,England,113002,SUB,17,Right,3,3,3,79,78,72,78,63,70,80
+G. Geyoro,237197,Onema Grace Geyoro,"CDM, CB",80,89,23,02/07/97,166,60,18,France,113003,LDM,8,Right,2,3,2,75,52,71,76,78,67,74
+K. Sheridan,237673,Kailen Mary Iacovoni Sheridan,GK,80,83,25,16/07/95,176,72,70,Canada,113000,SUB,18,Right,2,1,1,,,,,,,18
+L. Beerensteyn,240717,Lineth Enid Fabienne Beerensteyn,"RW, ST, RB",80,84,24,11/10/96,161,62,34,Netherlands,113011,SUB,21,Right,2,4,2,90,73,69,84,52,73,91
+Peng Shimeng,243415,彭诗梦,GK,80,85,23,12/05/98,182,70,155,China PR,113001,GK,12,Right,1,1,2,,,,,,,45
+Julininha Ruiz,245197,Júlia Bárbara Ruiz Gomes,GK,80,80,29,29/02/92,171,65,54,Brazil,112999,GK,1,Right,2,1,1,,,,,,,48
+Karole Pombal,245204,Karen Isa Pombal Trigo,"CAM, RM",80,80,29,29/02/92,165,59,54,Brazil,112999,RCM,8,Right,4,4,1,76,69,75,81,27,47,78
+L. Freigang,261773,Laura Freigang,"ST, RW",80,85,23,11/02/98,172,64,21,Germany,113004,SUB,14,Right,3,3,1,79,81,53,75,23,61,77
+J. Cayman,261785,Janice Cayman,"RW, LW, ST",80,80,32,12/10/88,167,61,7,Belgium,113394,RW,11,Right,4,4,2,79,80,76,81,53,67,78
+Liu Shanshan,226911,刘杉杉,LB,79,79,29,16/03/92,169,65,155,China PR,113001,SUB,2,Left,3,3,2,77,42,68,70,77,75,73
+E. van Egmond,227113,Emily Louise van Egmond,"CM, CAM, CF",79,79,27,12/07/93,179,70,195,Australia,112998,LCM,10,Right,3,4,3,62,72,76,72,70,83,62
+H. Raso,227137,Hayley Emma Raso,"RW, LW",79,79,26,05/09/94,162,59,195,Australia,112998,RM,16,Right,3,3,2,93,74,67,83,33,63,95
+D. Stokes,227264,Demi Lee Courtney Stokes,LB,79,79,29,12/12/91,158,56,14,England,113002,SUB,12,Left,3,3,3,92,39,62,74,77,78,94
+S. Mayor,227452,Sandra Stephany Mayor Gutierrez,"CAM, CM, RM",79,79,29,23/09/91,162,58,83,Mexico,113010,RM,10,Right,4,4,2,78,77,76,82,37,62,80
+R. Percival,233338,Ria Dawn Percival,"RB, CDM",79,79,31,07/12/89,161,57,198,New Zealand,113258,RB,2,Right,3,4,2,74,65,80,76,78,60,75
+S. van de Sanden,233752,Shanice Janice van de Sanden,RW,79,79,28,02/10/92,168,65,34,Netherlands,113011,SUB,7,Right,2,4,3,94,70,71,77,39,77,93
+D. Janssen,233756,Dominique Johanna Anna Petrone Janssen,"CB, RB, LB",79,80,26,17/01/95,174,67,34,Netherlands,113011,RB,20,Right,5,3,3,77,68,75,76,79,80,75
+E. Perisset,236428,Ève Josette Noelle Périsset,RB,79,81,26,24/12/94,160,55,18,France,113003,SUB,2,Right,2,3,1,77,46,72,75,77,72,80
+K. Walsh,242830,Keira Fae Walsh,"CDM, CM",79,88,24,08/04/97,168,67,14,England,113002,SUB,14,Right,3,3,2,79,40,75,76,73,78,83
+C. Emslie,243403,Claire Emslie,"RM, LM",79,79,27,08/03/94,174,68,42,Scotland,113984,RM,18,Right,3,4,3,79,72,74,78,34,65,82
+Bianca Revelia,245186,Bianca Rebeca Dias Ribeiro,RB,79,79,33,29/02/88,157,53,54,Brazil,112999,RB,4,Right,3,3,1,85,44,71,77,75,68,83
+Becky Redela,245202,Rebeca Maria Jasper Redela,CB,79,79,29,29/02/92,172,70,54,Brazil,112999,RCB,2,Right,2,2,1,59,34,51,57,82,80,56
+J. Beattie,245873,Jennifer Patricia Beattie,CB,79,79,30,13/05/91,177,69,42,Scotland,113984,LCB,5,Right,3,3,2,67,70,53,66,81,74,65
+C. Weir,245879,Caroline Elspeth Lillias Weir,"CM, CDM, CAM",79,82,26,20/06/95,172,60,42,Scotland,113984,LDM,9,Left,3,3,3,69,73,73,76,73,57,68
+T. De Caigny,261789,Tine De Caigny,"ST, CAM",79,84,24,09/06/97,175,62,7,Belgium,113394,ST,6,Right,3,3,1,78,81,65,74,32,71,72
+Li Ying,226915,李影,"LM, ST, RM",78,78,28,07/01/93,170,61,155,China PR,113001,LM,10,Left,3,3,2,79,80,74,77,38,73,80
+Ma Jun,226940,马君,"CM, CDM",78,78,32,06/03/89,173,55,155,China PR,113001,LCM,8,Right,3,3,2,79,71,70,75,74,71,78
+A. Ilestedt,226979,Amanda Ilestedt,CB,78,79,28,17/01/93,178,65,46,Sweden,113008,RCB,13,Right,3,2,2,78,36,54,53,78,80,76
+A. Kennedy,227109,Alanna Stephanie Kennedy,"CB, CDM",78,81,26,21/01/95,176,63,195,Australia,112998,LCB,5,Right,3,2,3,61,62,66,62,80,81,61
+K. Gorry,227115,Katrina-Lee Gorry,"CM, CAM",78,78,28,13/08/92,154,54,195,Australia,112998,SUB,19,Right,4,4,3,75,71,76,81,65,58,80
+Marta Corredera,227193,Marta Corredera Rueda,"RB, RM, LB",78,78,29,08/08/91,162,59,45,Spain,113012,RB,7,Right,3,4,2,81,71,73,76,73,62,80
+J. Fleming,227387,Jessie Alexandra Fleming,"CM, CAM",78,84,23,11/03/98,165,53,70,Canada,113000,CAM,17,Right,4,3,1,74,71,69,80,66,56,75
+Amanda Sampedro,227775,Amanda Sampedro Bustos,"RM, CM, CAM",78,78,28,26/06/93,161,55,45,Spain,113012,SUB,19,Right,4,3,3,79,75,77,78,72,71,78
+E. Nayler,233337,Erin Nicole Nayler,GK,78,79,29,17/04/92,175,68,198,New Zealand,113258,GK,1,Right,3,1,2,,,,,,,25
+S. Karchaoui,233662,Sakina Karchaoui,LB,78,82,25,26/01/96,160,55,18,France,113003,LB,7,Left,2,4,1,85,47,74,79,74,54,88
+M. van Dongen,233757,Merel Didi van Dongen,"LB, CB",78,78,28,11/02/93,170,64,34,Netherlands,113011,LB,4,Left,2,3,2,65,54,71,74,77,79,64
+A. Dekker,233854,Marieke Anouk Dekker,"CDM, CB",78,78,34,15/11/86,182,70,34,Netherlands,113011,SUB,6,Right,2,2,2,50,65,71,63,81,85,44
+Patri Guijarro,237289,Patricia Guijarro Gutiérrez,"CM, CAM",78,86,23,17/05/98,170,64,45,Spain,113012,CM,12,Right,3,3,2,71,78,74,77,72,65,69
+Z. Mušović,243379,Zećira Mušović,GK,78,84,25,26/05/96,178,66,46,Sweden,113008,SUB,22,Right,2,1,1,,,,,,,28
+G. Stanway,243404,Georgia Marie Stanway,"CAM, CM",78,89,22,03/01/99,162,58,14,England,113002,LDM,4,Right,4,4,2,83,73,77,76,35,57,84
+B. Mead,245802,Bethany Jane Mead,"LM, RM, LW",78,79,26,09/05/95,163,59,14,England,113002,SUB,19,Right,3,3,2,82,77,69,79,33,63,83
+E. Cuthbert,245882,Erin Jacqueline Cuthbert,"ST, CAM, CM",78,87,22,19/07/98,159,60,42,Scotland,113984,ST,22,Right,3,4,3,79,78,67,76,23,58,77
+L. Williamson,246426,Leah Cathrine Williamson,CB,78,83,24,29/03/97,170,65,14,England,113002,LCB,6,Right,3,2,1,66,47,57,60,79,71,64
+Wang Shanshan,226917,王珊珊,"ST, LM, RM",77,77,31,27/01/90,169,57,155,China PR,113001,LS,11,Left,4,4,2,80,76,75,77,61,73,82
+Zhang Xin,226932,张馨,"RM, LM, ST",77,77,29,23/05/92,170,56,155,China PR,113001,RM,6,Left,4,3,1,75,60,75,74,47,55,73
+O. Schough,226985,Olivia Alma Charlotta Schough,"LW, LWB",77,77,30,11/03/91,172,60,46,Sweden,113008,SUB,15,Right,3,4,2,85,75,72,77,41,73,86
+E. Rubensson,226988,Elin Ingrid Johanna Rubensson,"CDM, CM",77,77,28,11/05/93,166,60,46,Sweden,113008,SUB,23,Right,2,3,2,85,53,73,79,77,68,83
+C. Polkinghorne,227111,Clare Elizabeth Polkinghorne,CB,77,77,32,01/02/89,171,67,195,Australia,112998,CB,4,Right,3,2,3,59,34,62,57,76,79,57
+T. Yallop,227120,Tameka Yallop,"CAM, CM",77,77,30,16/06/91,158,55,195,Australia,112998,RCM,13,Right,3,3,2,71,68,77,76,61,75,68
+Virginia Torrecilla,227195,Virginia Torrecilla Reyes,"CDM, CM",77,80,26,04/09/94,174,63,45,Spain,113012,SUB,14,Right,3,3,2,70,65,74,72,74,66,68
+Vicky Losada,227201,María Victoria Losada Gómez,"CM, LM, RM",77,77,30,05/03/91,168,60,45,Spain,113012,SUB,6,Right,3,3,3,74,74,72,74,69,72,76
+C. Fiskerstrand,227368,Cecilie Hauståker Fiskerstrand,GK,77,81,25,20/03/96,174,66,36,Norway,113007,GK,1,Right,1,1,2,,,,,,,53
+E. McLeod,227400,Erin Katrina McLeod,GK,77,77,38,26/02/83,173,73,70,Canada,113000,SUB,20,Right,2,1,3,,,,,,,39
+K. Bowen,233350,Kate Elizabeth Bowen,"CM, CDM, RB",77,78,27,15/04/94,170,56,198,New Zealand,113258,RCM,14,Right,3,4,2,79,59,78,75,71,70,78
+J. Andersson,235585,Jonna Ann-Charlotte Andersson,"LB, LWB",77,77,28,02/01/93,167,64,46,Sweden,113008,SUB,2,Left,3,3,1,84,45,63,73,73,64,83
+C. Krueger,236642,Casey Marie Krueger,"LB, CB",77,77,30,23/08/90,173,58,95,United States,113009,SUB,20,Right,3,3,1,79,65,70,71,75,78,80
+Mariona,237288,María Francesca Caldentey Oliver,"LW, RW, CAM",77,80,25,19/03/96,164,61,45,Spain,113012,LW,8,Right,4,3,2,68,74,76,79,48,67,70
+Aitana Bonmatí,241667,Aitana Bonmatí Conca,"RM, CM, LM",77,85,23,18/01/98,161,51,45,Spain,113012,RCM,23,Right,3,4,1,72,72,74,78,61,61,73
+V. Risa,242895,Vilde Bøe Risa,"CM, CDM",77,80,25,13/07/95,164,67,36,Norway,113007,RCM,8,Right,3,3,2,69,69,77,75,64,65,70
+Lin Yuping,243419,林宇萍,CB,77,77,29,28/02/92,180,63,155,China PR,113001,LCB,3,Right,3,2,2,79,49,68,64,78,76,77
+Melinda Goiás,245196,Melinda Marina Regalo Gonçalves,LM,77,77,29,29/02/92,164,56,54,Brazil,112999,SUB,13,Right,3,4,1,79,71,74,75,29,62,76
+E. Mitchell,245876,Emma Mitchell,LB,77,77,28,19/09/92,165,59,42,Scotland,113984,SUB,17,Left,3,3,2,77,40,61,70,74,68,75
+L. Evans,245878,Lisa Catherine Evans,"RM, LM",77,77,29,21/05/92,166,54,42,Scotland,113984,LM,11,Right,3,4,2,80,70,71,77,48,56,79
+A. Nouwen,246317,Aniek Nouwen,CB,77,83,22,09/03/99,174,65,34,Netherlands,113011,RCB,2,Right,3,2,1,70,55,55,58,79,77,68
+N. Björn,247461,Gun Nathalie Björn,"RB, CB, CDM",77,84,24,04/05/97,174,67,46,Sweden,113008,LCB,14,Right,3,3,1,80,40,67,71,75,70,77
+E. Roebuck,247796,Ellie Roebuck,GK,77,86,21,23/09/99,174,67,14,England,113002,GK,1,Right,3,1,1,,,,,,,41
+B. England,256489,Bethany England,ST,77,78,27,03/06/94,166,61,14,England,113002,SUB,18,Right,4,3,2,79,80,64,76,46,67,78
+Zhai Qingwei,259484,翟晴苇,LB,77,82,24,24/09/96,163,57,155,China PR,113001,LB,19,Left,3,3,1,67,33,57,60,78,54,65
+Cláudia Neto,261836,Cláudia Teresa Pires Neto,"CAM, RM, ST",77,77,33,18/04/88,164,55,38,Portugal,115682,RM,7,Right,3,4,3,76,77,77,74,45,61,75
+Zhang Rui,226913,张睿,"CM, CAM, CDM",76,76,32,17/01/89,172,62,155,China PR,113001,SUB,20,Right,3,3,2,81,76,77,74,68,77,83
+Gu Yasha,226929,古雅沙,LM,76,76,30,28/11/90,165,60,155,China PR,113001,SUB,17,Left,3,4,2,84,74,72,73,43,64,86
+V. Asseyi,227348,Viviane Marie-Louise Blanche Asseyi,"RM, ST, CAM",76,76,27,20/11/93,163,59,18,France,113003,SUB,18,Right,3,3,1,89,65,71,76,48,62,87
+K. Dali,227353,Kenza Dali,"RM, CM",76,76,29,31/07/91,165,62,18,France,113003,CAM,15,Right,3,4,2,74,72,75,76,63,67,75
+A. Chapman,227384,Allysha Lyn Chapman,"LB, RB",76,76,32,25/01/89,160,57,70,Canada,113000,LB,2,Left,3,2,2,76,35,52,57,77,75,79
+Leila Ouahabi,233150,Leila Ouahabi El Ouahabi,LB,76,76,28,22/03/93,172,61,45,Spain,113012,SUB,15,Left,3,3,1,74,48,64,68,75,71,70
+K. van Es,233856,Kika van Es,"LB, RB, CB",76,76,29,11/10/91,169,62,34,Netherlands,113011,SUB,5,Right,4,3,1,70,61,68,72,75,78,64
+S. Zadorsky,235594,Shelina Laura Zadorsky,CB,76,76,28,24/10/92,172,67,70,Canada,113000,LCB,4,Left,3,2,2,66,24,61,60,77,80,64
+A. Tounkara,236648,Aïssatou Tounkara,CB,76,79,26,16/03/95,174,60,18,France,113003,SUB,5,Right,2,2,2,64,32,57,56,77,76,66
+T. Knaak,244303,Turid Knaak,"CAM, ST, LM",76,76,30,24/01/91,168,53,21,Germany,113004,SUB,22,Right,3,4,1,81,72,72,80,35,55,78
+Cecil Sendela,245178,Amanda Cecília Santos Sendela,LM,76,76,21,29/02/00,164,55,54,Brazil,112999,SUB,19,Left,2,4,1,78,67,73,77,24,54,76
+Zoe Tocantins,245181,Juliana Zoe Meire Carvalho,"CB, LB",76,76,37,29/02/84,173,68,54,Brazil,112999,SUB,14,Left,3,2,1,65,24,56,56,79,70,62
+Isaby Camila,245195,Isabel Camila Magela Acuna,"RM, LM",76,76,33,29/02/88,163,58,54,Brazil,112999,SUB,15,Right,4,3,1,76,61,72,72,23,58,78
+Niccole Cintra,245200,Isabella Nicole Cintra Torres,"ST, CF",76,76,29,29/02/92,163,58,54,Brazil,112999,SUB,16,Right,3,4,1,69,77,51,77,18,57,71
+K. Sævik,245821,Karina Sævik,"RM, LM",76,79,25,24/03/96,173,62,36,Norway,113007,RM,21,Right,3,3,1,79,68,75,76,56,65,81
+L. Alexander,245871,Lee Alexander,GK,76,77,29,23/09/91,170,65,42,Scotland,113984,GK,1,Right,2,1,2,,,,,,,15
+R. Corsie,245875,Rachel Louise Corsie,CB,76,76,31,17/08/89,175,69,42,Scotland,113984,RCB,4,Right,3,2,2,64,30,48,47,78,73,63
+J. Falk,246152,Jennifer Miley Falk,GK,76,77,28,26/04/93,171,64,46,Sweden,113008,SUB,12,Right,2,1,1,,,,,,,29
+A. Anvegård,246153,Anna Elin Astrid Anvegård,ST,76,82,24,10/05/97,167,65,46,Sweden,113008,SUB,19,Right,3,3,1,75,79,66,78,45,55,73
+Li Mengwen,247116,李梦雯,"RB, CM",76,78,26,28/03/95,165,56,155,China PR,113001,SUB,4,Right,3,3,1,57,54,71,66,78,62,55
+J. Brand,261740,Jule Brand,"LM, ST, CM",76,84,18,16/10/02,177,62,21,Germany,113004,SUB,24,Left,3,3,1,85,69,72,73,52,54,84
+J. Biesmans,261782,Julie Biesmans,"CB, CDM",76,78,27,04/05/94,173,68,7,Belgium,113394,RCB,20,Right,3,2,1,70,30,65,67,78,74,67
+Carole Costa,261829,Carole da Silva Costa,CB,76,76,31,03/05/90,173,60,38,Portugal,115682,RCB,15,Right,3,2,1,64,36,45,45,77,72,60
+Ana Borges,261831,Ana Catarina Marques Borges,"RB, RM, RW",76,76,31,15/06/90,159,54,38,Portugal,115682,RB,9,Right,3,3,1,77,42,55,58,75,69,78
+Yang Li,226912,杨丽,ST,75,75,30,31/01/91,167,58,155,China PR,113001,SUB,9,Right,4,4,3,87,74,66,74,33,67,86
+Han Peng,226923,韩鹏,"RB, LB, LM",75,75,31,20/12/89,165,60,155,China PR,113001,RB,14,Right,4,3,2,83,67,73,74,70,70,85
+Quinn,227404,Quinn Quinn,"CB, CDM, CM",75,78,25,11/08/95,175,65,70,Canada,113000,RDM,5,Right,3,2,2,74,35,67,64,75,78,76
+Ivana Andrés,227780,Ivana Andrés Sanz,CB,75,78,26,13/07/94,164,60,45,Spain,113012,SUB,5,Right,3,2,1,61,45,56,48,76,74,57
+M. Arnold,227925,Mackenzie Elizabeth Arnold,GK,75,79,27,25/02/94,179,76,195,Australia,112998,SUB,18,Right,2,1,1,,,,,,,51
+E. Alvarado,228800,Emily Alvarado,GK,75,85,23,09/06/98,180,72,83,Mexico,113010,GK,1,Right,2,1,1,,,,,,,39
+Pang Fengyue,228840,庞丰月,"RM, CM",75,75,32,19/01/89,165,59,155,China PR,113001,SUB,23,Right,4,3,2,60,67,74,75,64,72,62
+C. Logarzo,231637,Chloe Logarzo,"CAM, LM, RM",75,77,26,22/12/94,165,51,195,Australia,112998,SUB,6,Right,4,3,2,80,68,69,75,41,60,84
+Andrea Pereira,233153,Andrea Pereira Cejudo,CB,75,77,27,19/09/93,164,62,45,Spain,113012,SUB,20,Right,4,2,1,58,29,52,49,77,72,61
+Esther González,233244,Esther González Rodríguez,"ST, CAM",75,75,28,08/12/92,164,54,45,Spain,113012,SUB,18,Right,3,3,1,62,81,57,74,26,58,63
+L. Utland,233323,Lisa-Marie Karlseng Utland,"ST, RM",75,75,28,19/09/92,171,63,36,Norway,113007,ST,11,Right,3,3,1,71,77,52,73,28,71,71
+M. Moore,233351,Meikayla Jean-Maree Moore,"CB, RB",75,80,25,04/06/96,172,67,198,New Zealand,113258,RCB,5,Right,3,2,1,66,32,59,62,77,75,62
+A. Longo,233352,Annalie Antonia Longo,"CM, CAM, CDM",75,75,30,01/07/91,157,56,198,New Zealand,113258,LCM,10,Right,3,4,1,70,70,72,78,60,67,74
+I. Kaagman,233861,Inessa Kaagman,"CAM, CM",75,77,25,17/04/96,170,56,34,Netherlands,113011,SUB,22,Right,4,3,1,65,76,75,73,37,66,66
+N. Prince,235962,Nichelle Patrice Prince,"RM, ST",75,76,26,19/02/95,163,65,70,Canada,113000,RM,15,Right,3,3,1,92,69,65,77,21,64,93
+F. Maanum,239761,Frida Leonhardsen Maanum,"CM, CAM, RM",75,85,21,16/07/99,173,53,36,Norway,113007,SUB,18,Right,3,3,1,77,67,72,80,55,59,79
+R. Jansen,240720,Renate Jansen,"RW, ST",75,75,30,07/12/90,166,60,34,Netherlands,113011,SUB,13,Right,3,3,1,76,75,67,76,58,71,74
+S. Durand,241547,Solène Durand,GK,75,76,26,20/11/94,170,66,18,France,113003,SUB,1,Right,2,1,1,,,,,,,28
+Lucía García,242796,Lucía García Córdoba,"ST, RM, LM",75,84,22,14/07/98,163,56,45,Spain,113012,SUB,17,Right,3,3,1,71,80,60,77,30,56,70
+K. Snoeijs,244059,Katja Snoeijs,ST,75,79,24,01/08/96,172,62,34,Netherlands,113011,SUB,17,Right,3,3,1,78,75,62,72,27,65,76
+Iris Vieirinha,245185,Ana Iris Lopes Vieira,GK,75,75,33,29/02/88,169,60,54,Brazil,112999,SUB,12,Left,3,1,1,,,,,,,25
+Jandinha Kenedy,245198,Isia Jade Selva Kenedy,"RB, LB, CB",75,75,29,29/02/92,165,62,54,Brazil,112999,SUB,17,Right,2,2,1,71,37,58,55,76,67,72
+S. Howard,245877,Sophie Louise Howard,"RB, CB",75,76,27,17/09/93,175,59,42,Scotland,113984,RB,15,Right,3,3,1,69,41,58,55,75,73,70
+F. Brown,245884,Fiona Alison Brown,"LM, RM, CM",75,76,26,31/03/95,165,55,42,Scotland,113984,SUB,20,Right,3,4,1,76,72,68,76,33,68,78
+K. Smith,245889,Kirsty Anele Smith,"RB, LB",75,76,27,06/01/94,164,55,42,Scotland,113984,SUB,2,Right,3,3,1,81,34,58,63,73,57,83
+Nahikari,246286,Nahikari García Pérez,ST,75,79,24,10/03/97,160,52,45,Spain,113012,SUB,22,Right,3,4,1,75,77,65,74,21,56,75
+M. Janogy,247462,Madelen Fatimma Maria Janogy,"ST, LW",75,79,25,12/11/95,164,57,46,Sweden,113008,SUB,7,Right,3,3,1,80,77,53,75,45,60,81
+V. Gilles,247513,Vanessa Brigitte Gilles,CB,75,79,24,03/11/96,170,56,70,Canada,113000,SUB,23,Right,3,2,1,59,51,50,43,75,81,58
+Ona Batlle,253436,Ona Batlle Pascual,"LB, RB, CB",75,83,22,10/06/99,165,53,45,Spain,113012,LB,2,Right,4,3,1,72,35,54,62,74,58,73
+C. Kelly,257001,Chloe Maggie Kelly,"RM, RW",75,84,23,15/01/98,161,58,14,England,113002,SUB,22,Right,3,3,1,75,73,72,77,48,52,74
+L. Hemp,257008,Lauren May Hemp,"LM, LW",75,88,20,07/08/00,163,59,14,England,113002,LM,11,Left,2,3,1,82,66,73,73,54,61,80
+Yao Lingwei,259485,姚凌薇,"CM, CDM, CB",75,79,25,05/12/95,165,63,155,China PR,113001,RCM,16,Right,3,3,1,67,64,66,72,66,61,68
+L. Deloose,261783,Laura Deloose,RB,75,75,28,18/06/93,164,56,7,Belgium,113394,RB,22,Right,3,3,1,74,46,67,62,75,72,72
+D. Philtjens,261790,Davina Philtjens,LB,75,75,32,26/02/89,150,52,7,Belgium,113394,LB,2,Left,3,3,1,74,57,70,70,73,53,77
+Dolores Silva,261830,Dolores Isabel Jácome da Silva,"CDM, CM",75,75,29,07/08/91,167,54,38,Portugal,115682,RCM,14,Right,3,3,1,65,50,72,54,74,65,64
+Sílvia Rebelo,261832,Sílvia Marisa García Rebelo,CB,75,75,32,20/05/89,173,66,38,Portugal,115682,LCB,4,Right,3,2,1,63,25,46,45,76,74,56
+C. Macario,262330,Catarina Macario,ST,75,75,30,04/10/90,165,64,95,United States,113009,SUB,22,Right,3,3,1,82,75,68,77,46,71,83
+F. Angeldahl,263964,Filippa Angeldahl,CM,75,82,23,14/07/97,170,56,46,Sweden,113008,RCM,16,Right,3,2,1,69,62,75,72,70,63,68
+L. Hurtig,227003,Lina Mona Andréa Hurtig,"LW, LM",74,75,25,05/09/95,180,69,46,Sweden,113008,SUB,8,Right,3,3,1,69,77,73,73,32,74,68
+K. Simon,227116,Kyah Pam Simon,"ST, CAM",74,74,30,25/06/91,164,63,195,Australia,112998,RW,17,Right,4,4,3,78,75,58,75,42,70,79
+A. Leon,227397,Adriana Kristina Leon,"LW, RW",74,74,28,02/10/92,160,59,70,Canada,113000,SUB,19,Right,3,3,2,80,75,67,74,25,59,80
+C. Bilbault,228585,Charlotte Bilbault,"CDM, CM",74,74,31,05/06/90,168,65,18,France,113003,SUB,14,Right,3,2,1,69,44,63,64,70,80,71
+M. Thorisdottir,233330,Maria Thorisdottir,"CB, CDM",74,75,28,05/06/93,171,68,36,Norway,113007,LCB,3,Left,2,2,2,80,32,61,70,75,74,81
+L. Geurts,233862,Loes Geurts,GK,74,74,35,12/01/86,168,63,34,Netherlands,113011,SUB,23,Right,2,1,2,,,,,,,22
+M. Purce,243769,Margaret Purce,"RM, RWB",74,77,25,18/09/95,165,56,95,United States,113009,SUB,25,Right,2,3,1,87,48,70,75,50,55,90
+Kla Elisinha,245183,Clara Elisa Leal Porfírio,"CDM, CM",74,74,37,29/02/84,166,63,54,Brazil,112999,SUB,18,Left,3,2,1,59,37,58,53,74,73,58
+Giovanny Bia,245191,Giovana Beatriz Inácio Maia,"CDM, CM",74,74,33,29/02/88,159,58,54,Brazil,112999,SUB,20,Right,3,2,1,61,31,65,48,72,75,60
+Magi Bardini,245201,Olívia Jade Magela Bardini,"CAM, CM",74,74,29,29/02/92,158,51,54,Brazil,112999,SUB,21,Left,3,4,1,66,71,76,77,52,58,68
+J. Ross,245880,Jane Celestina Ross,"ST, RM, CAM",74,74,31,18/09/89,165,60,42,Scotland,113984,SUB,13,Right,3,4,1,74,74,64,75,23,56,73
+L. Clelland,245885,Lana Clelland,"ST, RM",74,74,28,26/01/93,173,65,42,Scotland,113984,SUB,19,Right,3,3,1,82,72,58,73,19,67,80
+C. Murray,245886,Christie Murray,"CM, CDM, CAM",74,74,31,03/05/90,156,50,42,Scotland,113984,RDM,16,Right,3,3,1,65,69,72,72,78,57,64
+J. Love,245888,Joanne Love,"CM, CDM, RM",74,74,35,06/12/85,160,60,42,Scotland,113984,SUB,6,Right,3,3,1,66,68,69,73,70,62,65
+H. Lauder,245891,Hayley Lauder,"LB, LM",74,74,31,04/06/90,170,62,42,Scotland,113984,LB,7,Left,3,3,1,77,57,63,69,72,64,76
+P. Peyraud-Magnin,246178,Pauline Camille Peyraud-Magnin,GK,74,75,29,17/03/92,173,57,18,France,113003,GK,21,Left,2,1,1,,,,,,,23
+Alba Redondo,246774,Alba María Redondo Ferrer,"ST, RW",74,79,24,27/08/96,169,63,45,Spain,113012,RW,21,Right,3,3,1,72,77,61,72,17,57,70
+L. Wilms,253417,Lynn Anke Hannie Wilms,RB,74,83,20,03/10/00,173,60,34,Netherlands,113011,SUB,15,Right,3,2,1,73,52,69,68,71,72,74
+Marta Cardona,253437,Marta Cardona de Miguel,"RM, RW",74,75,26,26/05/95,161,54,45,Spain,113012,SUB,9,Right,3,4,1,68,67,72,73,26,52,70
+S. Kleinherne,257530,Sophia Kleinherne,CB,74,84,21,12/04/00,169,54,21,Germany,113004,SUB,2,Right,4,2,1,69,33,46,65,75,72,63
+Misa,258789,María Isabel Rodríguez Rivero,GK,74,81,21,22/07/99,173,66,45,Spain,113012,SUB,1,Left,3,1,1,,,,,,,29
+A. Cervantes,261093,Alicia Cervantes Herrera,ST,74,74,27,24/01/94,165,60,83,Mexico,113010,LS,23,Left,2,2,1,65,79,53,69,32,65,66
+K. Missipo,261784,Kassandra Missipo,"CM, CDM",74,79,23,03/02/98,159,57,7,Belgium,113394,SUB,23,Right,3,3,1,75,61,67,76,70,73,76
+Jéssica Silva,261852,Jéssica Nogueira Silva,ST,74,77,26,11/12/94,170,54,38,Portugal,115682,RS,10,Left,3,4,1,74,73,54,72,19,54,73
+S. Jensen,227369,Synne Sofie Kinden Jensen,ST,73,77,25,15/02/96,173,62,36,Norway,113007,SUB,19,Right,3,3,2,79,74,50,73,24,63,76
+M. Sánchez,228724,María Guadalupe Sánchez Morales,LM,73,76,25,20/02/96,167,56,83,Mexico,113010,LM,11,Left,3,3,1,83,66,71,73,42,54,82
+R. White,233349,Rosemary Eleanor Florence White,"ST, RM, CAM",73,73,28,06/06/93,165,63,198,New Zealand,113258,RS,13,Right,3,3,1,76,71,72,74,29,61,77
+D. Kerkdijk,233759,Danique Kerkdijk,CB,73,75,25,01/05/96,170,64,34,Netherlands,113011,SUB,18,Right,3,2,1,69,43,55,57,75,75,60
+V. Esson,238280,Victoria Lucy Esson,GK,73,73,30,06/03/91,169,65,198,New Zealand,113258,SUB,21,Right,3,1,1,,,,,,,37
+K. Leine,239759,Kristine Bjørdal Leine,"LB, CB",73,78,24,06/08/96,171,57,36,Norway,113007,SUB,30,Right,2,2,1,71,30,58,56,70,65,73
+O. Chance,241526,Olivia Juliet Bridget Chance,"RM, LM",73,73,27,05/10/93,157,53,198,New Zealand,113258,LM,22,Right,4,3,1,86,66,67,70,40,59,85
+Rafaelly Paraná,245187,Rafaela Isabel Lobato Selva,LB,73,73,25,29/02/96,168,65,54,Brazil,112999,SUB,23,Left,3,3,1,66,51,64,69,71,77,68
+L. Arnot,245881,Lizzie Arnot,"ST, LM",73,77,25,01/03/96,169,54,42,Scotland,113984,SUB,21,Right,4,3,1,76,75,44,74,22,55,75
+C. Arthur,245883,Chloe Susan Arthur,"CM, CDM",73,76,26,21/01/95,169,58,42,Scotland,113984,SUB,14,Right,3,3,1,65,67,67,70,69,60,62
+L. Crichton,245890,Leanne Crichton,CM,73,73,33,06/08/87,160,55,42,Scotland,113984,SUB,10,Right,3,3,1,61,70,71,71,69,56,60
+E. Laurent,246177,Emelyne Ann-Emmanuelle Laurent,"RW, RM",73,85,22,04/11/98,161,50,18,France,113003,SUB,13,Right,2,3,1,85,64,68,76,20,38,86
+N. Docherty,246967,Nicola Docherty,LB,73,73,28,23/08/92,171,60,42,Scotland,113984,SUB,3,Left,3,3,1,70,52,58,68,71,65,71
+D. Espinosa,247437,Daniela Espinosa Arce,"RM, CAM, ST",73,84,21,13/07/99,168,62,83,Mexico,113010,SUB,7,Right,3,3,1,68,72,74,73,34,41,69
+J. Huitema,247512,Jordyn Pamela Huitema,"ST, RW, RM",73,84,20,08/05/01,181,56,70,Canada,113000,SUB,7,Right,3,4,3,81,74,53,75,24,53,81
+Yao Wei,247747,姚伟,"CM, RM",73,79,23,01/09/97,167,60,155,China PR,113001,SUB,21,Right,3,3,1,73,70,71,71,55,62,72
+Laia Aleixandri,253435,Laia Aleixandri López,"CB, RB, CDM",73,84,20,25/08/00,170,55,45,Spain,113012,SUB,3,Left,4,2,1,68,28,55,48,74,72,55
+P. Morroni,256095,Perle Morroni,LB,73,80,23,15/10/97,157,53,18,France,113003,SUB,23,Left,2,2,1,81,34,64,62,69,58,79
+J. López,260768,Jimena López Fuentes,LB,73,79,22,30/01/99,170,57,83,Mexico,113010,LB,5,Left,2,2,1,73,46,62,62,70,60,73
+É. Viens,261514,Évelyne Viens,ST,73,77,24,06/02/97,173,64,70,Canada,113000,SUB,9,Right,5,2,1,81,77,50,72,19,60,83
+J. Vanhaevermaet,261786,Justine Vanhaevermaet,"CDM, CM",73,73,29,29/04/92,185,72,7,Belgium,113394,CM,10,Right,4,3,1,64,66,69,67,71,72,58
+L. De Neve,261788,Laura De Neve,CB,73,76,26,09/10/94,168,56,7,Belgium,113394,LCB,18,Left,3,2,1,71,45,66,60,74,71,68
+M. Minnaert,261791,Marie Minnaert,"CM, CAM",73,79,22,05/05/99,184,73,7,Belgium,113394,LCM,16,Right,3,3,1,63,68,72,68,62,70,60
+L. Onzia,261801,Lenie Onzia,"CM, CDM, CAM",73,73,32,30/05/89,170,57,7,Belgium,113394,RCM,8,Right,3,3,1,60,54,71,71,70,68,56
+Patrícia Morais,261834,Patrícia Isabel Sousa Morais,GK,73,73,29,17/06/92,178,63,38,Portugal,115682,GK,12,Right,3,1,1,,,,,,,25
+Carolina Mendes,261842,Carolina Ana Coruche Mendes,ST,73,73,33,27/11/87,173,59,38,Portugal,115682,SUB,18,Right,3,3,1,78,79,55,74,18,58,79
+E. Toone,263011,Ella Toone,"RW, RM",73,83,21,02/09/99,163,57,14,England,113002,SUB,20,Right,3,2,1,80,70,69,73,49,64,79
+H. Bennison,263966,Hanna Bennison,CAM,73,90,18,16/10/02,160,51,46,Sweden,113008,SUB,26,Right,3,2,1,75,68,75,72,57,57,76
+Li Jiayue,226927,李佳悦,"CB, RB, LB",72,72,31,08/06/90,170,58,155,China PR,113001,SUB,13,Right,3,2,1,67,43,56,61,73,72,64
+E. Thorsnes,227286,Elise Hove Thorsnes,"ST, LB",72,72,32,14/08/88,174,70,36,Norway,113007,SUB,7,Right,3,3,2,69,64,66,74,57,85,68
+C. Jaramillo,227454,Christian Carolina Jaramillo Quintero,"LM, CM",72,72,27,15/03/94,167,59,83,Mexico,113010,SUB,15,Left,3,3,3,76,61,74,74,38,61,77
+Bi Xiaolin,232618,毕晓琳,GK,72,72,31,18/09/89,176,62,155,China PR,113001,SUB,1,Right,2,1,1,,,,,,,26
+E. Gielnik,233200,Emily Gielnik,"RW, LW, ST",72,72,29,13/05/92,183,68,195,Australia,112998,SUB,15,Right,3,3,1,78,68,65,74,26,68,77
+S. Hansen,233322,Synne Skinnes Hansen,"RB, LB",72,75,25,12/08/95,171,65,36,Norway,113007,SUB,5,Right,3,3,1,64,61,60,67,70,57,63
+A. Green,233339,Anna Green,"LB, LWB",72,72,30,20/08/90,167,62,198,New Zealand,113258,SUB,3,Left,3,3,1,73,64,65,68,71,69,77
+H. Wilkinson,233353,Hannah Lillian Wilkinson,"ST, RM, LM",72,72,29,28/05/92,178,70,198,New Zealand,113258,SUB,17,Right,3,4,1,69,73,58,72,23,62,70
+C. Bott,233354,Catherine Joan Bott,"LB, RB, RWB",72,75,26,22/04/95,165,60,198,New Zealand,113258,SUB,4,Right,3,3,1,62,57,64,70,70,70,64
+L. Agnew,237674,Lindsay Elizabeth Agnew,RB,72,74,26,31/03/95,175,63,70,Canada,113000,SUB,22,Right,3,2,1,74,65,63,66,70,72,73
+D. Rose,238096,Deanne Rose,"LM, RM",72,81,22,03/03/99,162,62,70,Canada,113000,SUB,6,Right,3,2,1,91,64,64,71,32,67,90
+S. Woeller,239124,Shannon Elizabeth Woeller,CB,72,72,30,31/12/90,172,64,70,Canada,113000,SUB,21,Right,3,2,1,65,26,45,49,75,75,61
+R. Bernal,241224,Rebeca Bernal Rodriguez,"LB, CDM",72,75,23,31/08/97,170,62,83,Mexico,113010,LDM,6,Left,3,3,1,74,41,62,66,71,63,77
+L. Kop,244058,Lize Kop,GK,72,78,23,17/03/98,172,64,34,Netherlands,113011,SUB,16,Right,2,1,1,,,,,,,27
+V. Pelova,244064,Victoria Pelova,"CAM, CM",72,80,22,03/06/99,158,55,34,Netherlands,113011,SUB,12,Right,3,3,1,73,67,67,76,35,55,75
+Licinha Bardini,245184,Lia Juliana Bardini Reis,GK,72,72,33,29/02/88,175,70,54,Brazil,112999,SUB,22,Right,3,1,1,,,,,,,19
+A. Eikeland,247535,Amalie Vevle Eikeland,"RM, LM",72,73,25,26/08/95,164,67,36,Norway,113007,SUB,15,Right,3,3,1,75,68,67,72,24,52,71
+J. Roddar,248790,Julia Elisabeth Roddar,"CDM, CM",72,72,29,16/02/92,167,59,46,Sweden,113008,SUB,20,Right,3,3,1,63,38,64,55,69,69,64
+A. González,261092,Alison Hecnary Gonzalez Esquivel,"ST, RW",72,84,19,31/01/02,169,51,83,Mexico,113010,RS,20,Right,3,3,1,73,76,58,74,25,45,70
+J. Odeurs,261787,Justien Odeurs,GK,72,77,24,30/05/97,174,70,7,Belgium,113394,GK,1,Right,3,1,1,,,,,,,26
+N. Evrard,261794,Nicky Evrard,GK,72,76,26,26/05/95,176,58,7,Belgium,113394,SUB,21,Right,3,1,1,,,,,,,16
+D. Vanmechelen,261795,Davinia Vanmechelen,"LW, LM",72,80,21,30/08/99,161,63,7,Belgium,113394,SUB,14,Left,4,4,1,77,67,69,73,23,48,81
+C. Vande Velde,261798,Chloé Vande Velde,"CM, RM, LM",72,77,24,06/06/97,169,58,7,Belgium,113394,SUB,19,Right,3,3,1,73,70,71,73,64,66,71
+Tatiana Pinto,261835,Tatiana Vanessa Ferreira Pinto,CM,72,73,27,28/03/94,167,55,38,Portugal,115682,LCM,11,Right,3,3,1,62,51,68,67,65,58,61
+Diana Silva,261837,Diana Micaela de Sousa e Silva,"ST, LW",72,75,26,04/06/95,161,54,38,Portugal,115682,SUB,19,Left,3,3,1,77,78,64,72,18,60,75
+Andreia Norton,261838,Andreia Alexandra Norton,"CM, RM, LM",72,77,24,15/08/96,161,58,38,Portugal,115682,LM,8,Right,3,3,1,67,59,69,64,59,64,70
+Fátima Pinto,261841,Fátima Figueira Pinto,"CM, LM",72,77,25,16/01/96,169,59,38,Portugal,115682,SUB,13,Left,3,3,1,61,48,72,67,59,66,59
+K. Cooney-Cross,262866,Kyra Cooney-Cross,CAM,72,88,19,15/02/02,165,60,195,Australia,112998,SUB,22,Right,3,2,1,72,71,73,72,39,45,74
+A. Cook,264011,Alana Cook,CB,72,76,24,11/04/97,175,68,95,United States,113009,SUB,26,Right,3,2,1,77,41,55,68,72,75,78
+Song Duan,226964,宋端,"CM, CDM",71,74,25,02/08/95,168,54,155,China PR,113001,SUB,15,Right,2,3,1,72,69,62,70,70,63,70
+N. Antonio,227486,Nancy Guadalupe Antonio Lopez,"CDM, CM",71,75,25,02/04/96,174,60,83,Mexico,113010,RDM,16,Right,3,2,1,77,58,61,65,69,74,79
+B. Hassett,233348,Betsy Doon Hassett,"CAM, LM, RM",71,71,30,04/08/90,157,55,198,New Zealand,113258,RM,12,Left,3,3,1,77,69,69,72,38,57,80
+T. Hansen,239756,Tuva Hansen,CB,71,80,23,04/08/97,165,55,36,Norway,113007,SUB,4,Right,2,2,1,68,28,38,45,76,61,65
+K. Rood,241565,Katie Rood,"LW, ST, CAM",71,71,28,02/09/92,164,62,198,New Zealand,113258,SUB,9,Right,4,3,1,81,66,67,71,31,52,83
+M. Kelly,242025,Maegan Kelly,"LM, LW",71,71,29,19/02/92,164,70,70,Canada,113000,SUB,14,Left,3,3,1,76,62,68,70,38,56,79
+J. Fife,245892,Jenna Josephine Fife,GK,71,76,25,01/12/95,175,70,42,Scotland,113984,SUB,12,Left,2,1,1,,,,,,,25
+L. Staniforth,246235,Lucy Elizabeth Staniforth,CAM,71,71,28,02/10/92,157,54,14,England,113002,SUB,21,Right,3,3,1,75,60,72,72,40,52,78
+Luo Guiping,250773,罗桂平,"RB, CB",71,71,28,20/04/93,168,63,155,China PR,113001,SUB,22,Right,3,3,1,63,31,64,60,70,62,62
+É. De Almeida,253469,Élisa De Almeida,"CB, RB",71,79,23,11/01/98,174,61,18,France,113003,SUB,22,Right,2,2,1,61,23,53,57,74,62,64
+I. González,254564,Itzel González Rodríguez,GK,71,71,26,14/08/94,172,65,83,Mexico,113010,SUB,12,Right,3,1,1,,,,,,,31
+Joana Marchão,261833,Joana Filipa Gaspar Marchão,LB,71,76,24,24/10/96,165,53,38,Portugal,115682,LB,5,Left,3,3,1,74,40,60,60,70,64,73
+Ana Capeta,261844,Ana Inês Palma Capeta,"ST, LW",71,80,23,22/12/97,168,63,38,Portugal,115682,SUB,20,Right,3,4,1,70,71,57,68,19,63,72
+Inês Pereira,261848,Inês Teixeira Pereira,GK,71,79,22,26/05/99,168,64,38,Portugal,115682,SUB,1,Right,3,1,1,,,,,,,34
+J. Montoya,264630,Joseline Montoya,"RM, RW",71,80,20,03/07/00,158,48,83,Mexico,113010,SUB,17,Right,3,3,1,80,63,69,73,32,38,79
+J. Orejel,243054,Jocelyn Marie Orejel Tavares,CB,70,74,24,14/11/96,182,73,83,Mexico,113010,LCB,4,Right,2,2,1,37,27,45,40,69,78,34
+S. Lynn,245887,Shannon Lynn,GK,70,70,35,22/10/85,175,58,42,Scotland,113984,SUB,23,Right,3,1,1,,,,,,,22
+C. Kvamme,247531,Cecilie Redisch Kvamme,RB,70,73,25,11/09/95,158,56,36,Norway,113007,RB,22,Right,2,2,1,67,33,59,64,68,61,68
+E. Kullberg,258915,Emma Kullberg,CB,70,71,29,25/09/91,170,63,46,Sweden,113008,SUB,3,Right,3,2,1,70,35,45,52,73,66,73
+S. Van Belle,261792,Shari Van Belle,"LB, RB",70,78,21,22/12/99,164,51,7,Belgium,113394,SUB,5,Right,4,3,1,65,25,50,61,69,54,68
+A. Tysiak,261793,Amber Tysiak,CB,70,78,21,26/01/00,177,70,7,Belgium,113394,SUB,4,Right,3,2,1,69,25,41,41,71,69,66
+C. Tison,261806,Charlotte Tison,CB,70,76,23,21/04/98,165,56,7,Belgium,113394,SUB,15,Right,3,2,1,74,27,47,57,71,66,74
+Telma Encarnação,261849,Telma Raquel Velosa Encarnaçao,ST,70,78,19,11/10/01,169,60,38,Portugal,115682,SUB,23,Right,3,3,1,71,69,59,65,25,62,70
+Kika Nazareth,261855,Francisca Ramos Nazareth Sousa,ST,70,82,18,17/11/02,170,52,38,Portugal,115682,LS,16,Right,3,3,1,79,69,59,69,17,62,78
+Rute Costa,261857,Ana Rute Campos Costa,GK,70,73,27,01/06/94,170,60,38,Portugal,115682,SUB,22,Right,3,1,1,,,,,,,33
+A. Harrison,227141,Amy Bianca Harrison,"CM, RM, RB",69,72,25,21/04/96,171,58,195,Australia,112998,SUB,23,Left,4,3,1,73,67,64,68,52,61,74
+C. Ferral,241225,Cristina Del Carmen Ferral Montalván,"CB, CDM",69,69,28,16/02/93,165,57,83,Mexico,113010,SUB,14,Right,3,2,1,72,66,69,69,70,69,73
+B. Campos,241286,Briana Marie Campos Barrientez,"CDM, CM",69,72,27,03/02/94,160,60,83,Mexico,113010,SUB,18,Right,3,2,1,71,58,61,68,67,61,74
+T. Åsland,247536,Therese Sessy Åsland,"CM, CAM",69,72,25,26/08/95,160,60,36,Norway,113007,SUB,13,Right,4,2,1,67,67,67,69,59,74,66
+M. Fowler,248799,Mary Fowler,"ST, CAM",69,86,18,14/02/03,172,60,195,Australia,112998,SUB,11,Left,3,3,1,74,70,55,75,25,50,75
+D. Evangelista,254997,Diana Laura Evangelista Chávez,"ST, RW",69,72,26,05/11/94,156,53,83,Mexico,113010,SUB,21,Right,3,4,1,68,74,61,70,39,52,73
+M. Cadena,255013,Mariana Cadena Calvillo,CB,69,74,26,13/02/95,168,62,83,Mexico,113010,SUB,13,Right,3,2,1,67,39,48,51,70,69,68
+E. Cascarino,256094,Estelle Cascarino,"CB, LB",69,78,24,05/02/97,161,52,18,France,113003,SUB,17,Left,2,2,1,64,35,59,64,70,67,67
+L. Wajnblum,261811,Lola Wajnblum,ST,69,73,25,22/01/96,161,59,7,Belgium,113394,SUB,3,Right,3,3,1,67,72,46,67,22,49,64
+Andreia Jacinto,261843,Andreia de Jesus Jacinto,"CM, RM",69,79,19,08/06/02,169,59,38,Portugal,115682,SUB,6,Right,3,3,1,69,46,67,67,63,67,68
+Andreia Faria,261845,Andreia Martins Faria,CM,69,79,21,19/04/00,164,55,38,Portugal,115682,SUB,21,Right,3,3,1,67,61,66,66,60,57,66
+Alícia Correia,261854,Alícia Lima Correia,LB,69,81,18,29/04/03,159,53,38,Portugal,115682,SUB,3,Left,3,3,1,72,41,53,61,68,60,75
+K. Rodríguez,262826,Karina Rodríguez,CB,69,77,22,02/03/99,166,59,83,Mexico,113010,RCB,3,Left,3,2,1,72,38,43,48,71,71,71
+S. Smith,264012,Sophia Smith,RW,69,78,20,10/08/00,165,62,95,United States,113009,SUB,27,Right,3,3,1,81,68,64,71,41,53,80
+A. Rodríguez,264626,Anika Rodríguez,"RW, RB",69,73,24,31/12/96,157,57,83,Mexico,113010,SUB,8,Right,3,3,1,76,66,65,71,60,53,78
+A. Phillips,233361,Aimee Phillips,"ST, CF",68,68,30,06/05/91,158,55,198,New Zealand,113258,SUB,11,Right,3,3,1,68,69,56,67,19,53,65
+P. Satchell,238279,Paige Therese Satchell,"LW, LM",68,75,23,13/04/98,163,50,198,New Zealand,113258,LS,19,Left,3,3,1,90,56,63,67,29,49,88
+J. Hellstrom,242027,Jenna Hellstrom,"RM, LM",68,68,26,02/04/95,168,64,70,Canada,113000,SUB,25,Right,3,3,1,79,57,58,72,45,58,80
+K. Roestbakken,250977,Karly Roestbakken,"LB, RB",68,84,20,17/01/01,165,61,195,Australia,112998,SUB,2,Right,4,2,1,74,31,50,67,66,59,76
+C. Bunge,256117,Claudia Mary Bunge,CB,68,78,21,21/09/99,173,63,198,New Zealand,113258,SUB,16,Right,2,2,1,72,33,47,57,70,70,70
+G. Pettersen,258940,Guro Pettersen,GK,68,68,29,22/08/91,175,67,36,Norway,113007,SUB,12,Right,2,1,1,,,,,,,37
+M. Villeda,261113,Melany Aylin Villeda Medina,GK,68,78,19,25/10/01,165,55,83,Mexico,113010,SUB,22,Right,3,1,1,,,,,,,31
+I. Iliano,261802,Isabelle Iliano,LB,68,73,24,02/03/97,170,58,7,Belgium,113394,SUB,17,Left,3,3,1,66,24,46,54,67,53,69
+D. Lemey,261804,Diede Lemey,GK,68,72,24,07/10/96,170,58,7,Belgium,113394,SUB,12,Right,3,1,1,,,,,,,23
+M. Coutereels,261807,Maud Coutereels,"CB, CDM",68,68,35,21/05/86,170,58,7,Belgium,113394,SUB,29,Right,3,2,1,55,27,59,55,72,59,56
+Catarina Amado,261858,Catarina Isabel Silva Amado,"RB, RM, RW",68,78,21,21/07/99,165,55,38,Portugal,115682,SUB,2,Right,3,3,1,72,58,61,66,63,54,73
+S. Morton,243875,Sarah Morton,"LB, CB, LWB",67,74,22,28/08/98,166,58,198,New Zealand,113258,SUB,15,Right,3,2,1,65,37,57,58,70,62,69
+A. Mikalsen,244890,Aurora Watten Mikalsen,GK,67,72,25,21/03/96,175,65,36,Norway,113007,SUB,28,Left,1,1,1,,,,,,,31
+N. Stratford,254489,Nicole Ellen Stratford,CB,67,67,32,01/02/89,177,68,198,New Zealand,113258,SUB,6,Right,2,2,1,57,25,44,47,67,72,58
+J. Blakstad,264233,Julie Blakstad,"LM, LB",67,84,19,27/08/01,175,60,36,Norway,113007,LB,23,Left,3,3,1,71,58,63,69,57,57,73
+M. Delgadillo,264627,Myra Delgadillo,ST,67,70,25,08/12/95,175,60,83,Mexico,113010,SUB,9,Right,3,2,1,70,69,62,70,29,51,72
+S. Skilton,243421,Stephanie Skilton,"RW, RWB, ST",66,66,26,27/10/94,175,66,198,New Zealand,113258,SUB,18,Right,2,3,1,71,65,56,67,64,59,74
+T. Micah,248751,Teagan Jade Micah,GK,66,75,23,20/10/97,176,78,195,Australia,112998,SUB,12,Right,2,1,1,,,,,,,30
+D. García,256208,Diana Laura García Castillo,RM,66,76,21,11/11/99,167,57,83,Mexico,113010,SUB,19,Right,3,2,1,70,58,64,69,43,39,72
+M. van der Meer,256251,Marisa Isabel Van Der Meer,"LB, LWB",66,78,19,27/03/02,167,60,198,New Zealand,113258,SUB,20,Left,2,2,1,71,38,61,62,62,56,68
+H. Eurlings,261799,Hannah Eurlings,"CF, ST",66,81,18,01/01/03,170,58,7,Belgium,113394,SUB,7,Right,3,4,1,71,63,65,72,31,49,76
+Ana Dias,261856,Ana Inês Costa Mendes Dias,ST,66,75,23,02/10/97,171,60,38,Portugal,115682,SUB,17,Right,3,3,1,75,67,51,63,16,60,74
+G. Rennie,263000,Gabi Rennie,"ST, RW",66,79,19,07/07/01,168,64,198,New Zealand,113258,SUB,23,Right,2,2,1,72,69,55,67,35,51,74
+C. Nevin,262867,Courtney Nevin,LB,62,77,19,12/02/02,168,65,195,Australia,112998,SUB,21,Left,3,2,1,71,25,52,57,55,53,72
+C. Grant,262868,Charlotte Grant,"RB, CB",60,75,19,20/09/01,172,70,195,Australia,112998,SUB,14,Right,2,2,1,68,29,49,58,56,59,70
